@@ -1,0 +1,575 @@
+{
+  "assets/Script/ObstacleSpawning.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ObstacleSpawning.js",
+    "mTimestamp": 1646124932099
+  },
+  "assets/Script/TouchLeft.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/Player.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/TouchLeft.js",
+    "mTimestamp": 1646289797470
+  },
+  "assets/Script/TouchRight.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/Player.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/TouchRight.js",
+    "mTimestamp": 1646289797499
+  },
+  "assets/Script/SpawnManager.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpawnManager.js",
+    "mTimestamp": 1646296144430
+  },
+  "assets/Script/StoneEnemySpawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/StoneEnemySpawner.js",
+    "mTimestamp": 1646296919671
+  },
+  "assets/Script/RedEnemySpawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/RedEnemySpawner.js",
+    "mTimestamp": 1646297366726
+  },
+  "assets/Script/ShieldIcoShieldIcon.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ShieldIcoShieldIcon.js",
+    "mTimestamp": 1646972855420
+  },
+  "assets/Script/ShieldIcon.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/IconSpawn.js",
+      "__unresolved_2": "assets/Script/ShieldAct.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ShieldIcon.js",
+    "mTimestamp": 1651640323488
+  },
+  "assets/Script/ShieldAct.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Player.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ShieldAct.js",
+    "mTimestamp": 1651640323240
+  },
+  "assets/Script/BulletAct.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BulletAct.js",
+    "mTimestamp": 1647312466718
+  },
+  "assets/Script/BulletIcon.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_1": "assets/Script/IconSpawn.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BulletIcon.js",
+    "mTimestamp": 1647312466746
+  },
+  "assets/Script/IconSpawn.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/IconSpawn.js",
+    "mTimestamp": 1651640323306
+  },
+  "assets/Script/SpeedIcon.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/IconSpawn.js",
+      "__unresolved_2": "assets/Script/Player.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpeedIcon.js",
+    "mTimestamp": 1651640323449
+  },
+  "assets/Script/IconManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/IconManager.js",
+    "mTimestamp": 1649318359629
+  },
+  "assets/Script/Player.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Player.js",
+    "mTimestamp": 1651640322978
+  },
+  "assets/Script/TouchManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/Player.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/TouchManager.js",
+    "mTimestamp": 1651640323553
+  },
+  "assets/Script/BossSpawner.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Boss.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BossSpawner.js",
+    "mTimestamp": 1651640322533
+  },
+  "assets/Script/Player-Enemy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Player-Enemy.js",
+    "mTimestamp": 1651647357572
+  },
+  "assets/Script/SpawnController-001.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpawnController-001.js",
+    "mTimestamp": 1651657101047
+  },
+  "assets/Script/InteractiveObjects/PoolObjects.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InteractiveObjects/PoolObjects.js",
+    "mTimestamp": 1651658333963
+  },
+  "assets/Script/InteractiveObjects/PlayerEnemy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/InteractiveObjects/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InteractiveObjects/PlayerEnemy.js",
+    "mTimestamp": 1651658347806
+  },
+  "assets/Script/InteractiveObjects/Enemy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/InteractiveObjects/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InteractiveObjects/Enemy.js",
+    "mTimestamp": 1651658359425
+  },
+  "assets/Script/InteractiveObjects/Bullet.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/InteractiveObjects/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InteractiveObjects/Bullet.js",
+    "mTimestamp": 1651658363377
+  },
+  "assets/Script/SpawnController/SpawnController.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpawnController/SpawnController.js",
+    "mTimestamp": 1651668764910
+  },
+  "assets/Script/SpawnController/EnemySpawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpawnController/EnemySpawner.js",
+    "mTimestamp": 1651668772588
+  },
+  "assets/Script/IconSpawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/SpawnController.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/IconSpawner.js",
+    "mTimestamp": 1651725315525
+  },
+  "assets/Script/EnemySpawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/EnemySpawner.js",
+    "mTimestamp": 1651725357007
+  },
+  "assets/Script/IconInit.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/IconInit.js",
+    "mTimestamp": 1651738703910
+  },
+  "assets/Script/SpawnController.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/SpawnController.js",
+    "mTimestamp": 1651811785057
+  },
+  "assets/Script/GunIcon.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/GunIcon.js",
+    "mTimestamp": 1651833919690
+  },
+  "assets/Script/HorizontalMovement.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/HorizontalMovement.js",
+    "mTimestamp": 1651892505449
+  },
+  "assets/Script/ActiveIcons.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ActiveIcons.js",
+    "mTimestamp": 1652015325345
+  },
+  "assets/Script/ColorChange.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/ColorChange.js",
+    "mTimestamp": 1652167032069
+  },
+  "assets/Script/Explosion.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Explosion.js",
+    "mTimestamp": 1652168258298
+  },
+  "assets/Script/Shield.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/ActiveIcons.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Shield.js",
+    "mTimestamp": 1652170542450
+  },
+  "assets/Script/Speed.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/ActiveIcons.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Speed.js",
+    "mTimestamp": 1652170668715
+  },
+  "assets/Script/Gun.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Gun.js",
+    "mTimestamp": 1652171535594
+  },
+  "assets/Script/PoolObjects.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/InteractableObject.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/PoolObjects.js",
+    "mTimestamp": 1652175112060
+  },
+  "assets/Script/Icons.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/Gun.js",
+      "__unresolved_4": "assets/Script/PoolObjects.js",
+      "__unresolved_3": "assets/Script/PlayerController.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Icons.js",
+    "mTimestamp": 1652329090901
+  },
+  "assets/Script/InteractableObject.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InteractableObject.js",
+    "mTimestamp": 1652342281195
+  },
+  "assets/Script/Bomb.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_1": "assets/Script/InteractableObject.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Bomb.js",
+    "mTimestamp": 1652342641691
+  },
+  "assets/Script/BossBullet.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BossBullet.js",
+    "mTimestamp": 1652348746777
+  },
+  "assets/Script/InputController.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/PlayerController.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/InputController.js",
+    "mTimestamp": 1652354049121
+  },
+  "assets/Script/PlayerEnemy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/PlayerEnemy.js",
+    "mTimestamp": 1652411815110
+  },
+  "assets/Script/Enemy.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Enemy.js",
+    "mTimestamp": 1652411815133
+  },
+  "assets/Script/PoolManager.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/BombIcon.js",
+      "__unresolved_2": "assets/Script/BossBullet.js",
+      "__unresolved_3": "assets/Script/Bullet.js",
+      "__unresolved_4": "assets/Script/Enemy.js",
+      "__unresolved_5": "assets/Script/Icons.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/PoolManager.js",
+    "mTimestamp": 1652415820019
+  },
+  "assets/Script/BombIcon.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Explosion.js",
+      "__unresolved_2": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/BombIcon.js",
+    "mTimestamp": 1652416244605
+  },
+  "assets/Script/Bullet.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/PoolObjects.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Bullet.js",
+    "mTimestamp": 1652427369402
+  },
+  "assets/Script/GameManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/GameManager.js",
+    "mTimestamp": 1652427971091
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1652495401946,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1652495402107
+  },
+  "assets/Script/Spawner.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/Boss.js",
+      "__unresolved_2": "assets/Script/PoolManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Spawner.js",
+    "mTimestamp": 1652498270845
+  },
+  "assets/Script/Boss.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js",
+      "__unresolved_2": "assets/Script/PoolManager.js",
+      "__unresolved_3": "assets/Script/Spawner.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/Boss.js",
+    "mTimestamp": 1652498270887
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_0": "assets/Script/Bomb.js",
+      "__unresolved_2": "assets/Script/Boss.js",
+      "__unresolved_1": "assets/Script/BombIcon.js",
+      "__unresolved_3": "assets/Script/BossBullet.js",
+      "__unresolved_4": "assets/Script/Bullet.js",
+      "__unresolved_5": "assets/Script/ColorChange.js",
+      "__unresolved_6": "assets/Script/Enemy.js",
+      "__unresolved_7": "assets/Script/Explosion.js",
+      "__unresolved_8": "assets/Script/GameManager.js",
+      "__unresolved_9": "assets/Script/Gun.js",
+      "__unresolved_10": "assets/Script/Icons.js",
+      "__unresolved_11": "assets/Script/InputController.js",
+      "__unresolved_12": "assets/Script/InteractableObject.js",
+      "__unresolved_14": "assets/Script/PoolManager.js",
+      "__unresolved_15": "assets/Script/PoolObjects.js",
+      "__unresolved_16": "assets/Script/Spawner.js",
+      "__unresolved_13": "assets/Script/PlayerController.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1652498355254,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/Script/PlayerController.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Script/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Script/PlayerController.js",
+    "mTimestamp": 1652498355308
+  }
+}

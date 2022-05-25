@@ -1,0 +1,40 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "7ef3a2",
+      "services": [
+        {
+          "service_id": "235",
+          "service_component_name": "service-analytics",
+          "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+          "enable": false,
+          "params": {}
+        }
+      ]
+    },
+    "web-mobile": {
+      "configID": "7ef3a2",
+      "services": [
+        {
+          "service_id": "235",
+          "service_component_name": "service-analytics",
+          "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+          "enable": false,
+          "params": {}
+        }
+      ]
+    }
+  },
+  "builder-options": {
+    "configID": "7ef3a2",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+        "enable": false,
+        "params": {}
+      }
+    ]
+  }
+}

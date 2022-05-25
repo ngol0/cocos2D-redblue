@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet",
+    "atlas": "",
+    "rect": {
+      "x": 15,
+      "y": 15,
+      "width": 45,
+      "height": 50
+    },
+    "offset": {
+      "x": -2.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 80,
+      "height": 80
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "89e87d92-99db-4b40-997c-160244706120@6c48a",
+    "packable": true
+  }
+}

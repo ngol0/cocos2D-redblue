@@ -1,0 +1,899 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "lamnt1redblue-edited",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "name": "red_and_blue"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1646290049519": {
+        "id": "1646290049519",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 13:48 Build success in 87614 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 13:47",
+        "dirty": false
+      },
+      "1646290460710": {
+        "id": "1646290460710",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 13:54 Build success in 16655 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 13:54",
+        "dirty": false
+      },
+      "1646290577604": {
+        "id": "1646290577604",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 13:56 Build success in 15727 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 13:56",
+        "dirty": false
+      },
+      "1646291103718": {
+        "id": "1646291103718",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 14:05 Build success in 14870 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 14:05",
+        "dirty": false
+      },
+      "1646291264450": {
+        "id": "1646291264450",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 14:08 Build success in 16149 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 14:07",
+        "dirty": false
+      },
+      "1646291650390": {
+        "id": "1646291650390",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 14:14 Build success in 22094 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 14:14",
+        "dirty": false
+      },
+      "1646292114877": {
+        "id": "1646292114877",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 14:22 Build success in 58530 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 14:21",
+        "dirty": false
+      },
+      "1646292380322": {
+        "id": "1646292380322",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 14:26 Build success in 22943 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 14:26",
+        "dirty": false
+      },
+      "1646295359681": {
+        "id": "1646295359681",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 15:16 Build success in 16167 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 15:15",
+        "dirty": false
+      },
+      "1646297862226": {
+        "id": "1646297862226",
+        "progress": 1,
+        "state": "success",
+        "message": "3-3-2022 15:58 Build success in 18855 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-R&B1",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-3-2022 15:57",
+        "dirty": false
+      },
+      "1646732765344": {
+        "id": "1646732765344",
+        "progress": 1,
+        "state": "success",
+        "message": "3-8-2022 16:46 Build success in 15768 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "R&B-2",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-8-2022 16:46",
+        "dirty": false
+      },
+      "1647247865825": {
+        "id": "1647247865825",
+        "progress": 1,
+        "state": "success",
+        "message": "3-14-2022 15:51 Build success in 17406 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt-RedAndBlue",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "3-14-2022 15:51",
+        "dirty": false
+      },
+      "1648808922220": {
+        "id": "1648808922220",
+        "progress": 1,
+        "state": "success",
+        "message": "4-1-2022 17:30 Build success in 117375 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lam-redblue",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "4-1-2022 17:28",
+        "dirty": false
+      },
+      "1649348088762": {
+        "id": "1649348088762",
+        "progress": 1,
+        "state": "success",
+        "message": "4-7-2022 23:16 Build success in 97069 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt1-red-blue",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "4-7-2022 23:14",
+        "dirty": false
+      },
+      "1650336893306": {
+        "id": "1650336893306",
+        "progress": 1,
+        "state": "success",
+        "message": "4-19-2022 09:56 Build success in 107258 ms!",
+        "options": {
+          "name": "RedandBlue_1",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamngo-redblue",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "4-19-2022 09:54",
+        "dirty": false
+      },
+      "1652175372283": {
+        "id": "1652175372283",
+        "progress": 1,
+        "state": "success",
+        "message": "5-10-2022 16:38 Build success in 140993 ms!",
+        "options": {
+          "name": "red_and_blue",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "redblue",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "5-10-2022 16:36",
+        "dirty": false
+      },
+      "1652365155097": {
+        "id": "1652365155097",
+        "progress": 1,
+        "state": "success",
+        "message": "5-12-2022 21:20 Build success in 93980 ms!",
+        "options": {
+          "name": "red_and_blue",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ff4226fe-0acf-401b-bca2-29453348327c",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+              "inBundle": false
+            }
+          ],
+          "outputName": "lamnt1redblue-edited",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "7ef3a2",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            }
+          }
+        },
+        "time": "5-12-2022 21:19",
+        "dirty": false
+      }
+    }
+  }
+}

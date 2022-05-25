@@ -1,0 +1,264 @@
+4-7-2022 23:14-debug: =================================== Build Task (lamnt1-red-blue) Start ================================
+4-7-2022 23:14-debug: cocos-service:(onBeforeBuild) start...0%
+4-7-2022 23:14-debug: // ---- cocos-service:(onBeforeBuild) ----
+4-7-2022 23:14-debug: Start build task, options:{"name":"RedandBlue_1","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"ff4226fe-0acf-401b-bca2-29453348327c","scenes":[{"url":"db://assets/Scene/scene.scene","uuid":"ff4226fe-0acf-401b-bca2-29453348327c","inBundle":false}],"outputName":"lamnt1-red-blue","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"7ef3a2","services":[{"service_id":"235","service_component_name":"service-analytics","builder":"/Users/lamngo/.CocosCreator/.service/analytics/builder/builder.js","enable":false,"params":{}}]}}}
+4-7-2022 23:14-debug: Start record console... {file(/Users/lamngo/Desktop/Cocos/RedandBlue_1/temp/builder/log/web-mobile4-7-2022 23-14.log)}
+4-7-2022 23:14-debug: Process: heapTotal 194.66MB heapUsed 176.75MB rss 191.55MB
+4-7-2022 23:14-debug: Build with Cocos Creator 3.4.1
+4-7-2022 23:14-debug: cocos-service:(onBeforeBuild)3%
+4-7-2022 23:14-debug: Query all assets info in project
+4-7-2022 23:14-debug: // ---- cocos-service:(onBeforeBuild) success ----
+4-7-2022 23:14-debug: init custom config: keepNodeUuid: false, useCache: true
+4-7-2022 23:14-debug: BuildAssetLibrary query-assets with assets 235
+4-7-2022 23:14-debug:   Number of other assets: 331
+4-7-2022 23:14-debug: web-mobile:(onAfterInit) start...3%
+4-7-2022 23:14-debug: // ---- web-mobile:(onAfterInit) ----
+4-7-2022 23:14-debug: Process: heapTotal 194.07MB heapUsed 171.27MB rss 191.92MB
+4-7-2022 23:14-debug: // ---- web-mobile:(onAfterInit) success ----
+4-7-2022 23:14-debug: web-mobile:(onAfterInit)5%
+4-7-2022 23:14-debug: Reload project scripts start5%
+4-7-2022 23:14-log: // ---- Reload project scripts ----
+4-7-2022 23:14-debug: Process: heapTotal 194.07MB heapUsed 171.33MB rss 191.93MB
+4-7-2022 23:14-debug: reload all scripts.
+4-7-2022 23:14-debug:   Number of all scripts: 15
+4-7-2022 23:14-debug: BuildAssetLibrary initialized with asset 321!
+4-7-2022 23:14-debug:   Number of all scenes: 1
+4-7-2022 23:14-debug: Incremental keys: 
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+4-7-2022 23:14-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register Bomb
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/Bomb.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register IconSpawn
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/IconSpawn.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register BombIcon
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/BombIcon.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register Bullet
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/Bullet.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register Enemy
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/Enemy.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/PoolManager.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register EnemySpawner
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/EnemySpawner.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register GameManager
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/GameManager.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register Gun
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/Gun.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register GunIcon
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/GunIcon.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register Player
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/Player.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register ShieldAct
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/ShieldAct.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register ShieldIcon
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/ShieldIcon.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register SpeedIcon
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/SpeedIcon.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Register TouchManager
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Script/TouchManager.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+4-7-2022 23:14-debug: Query asset bundle start6%
+4-7-2022 23:14-log: // ---- Query asset bundle ----
+4-7-2022 23:14-debug: Process: heapTotal 194.32MB heapUsed 173.81MB rss 192.59MB
+4-7-2022 23:14-debug: Reload project scripts √6%
+4-7-2022 23:14-debug: [[Executor]] Register PoolManager
+4-7-2022 23:14-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+4-7-2022 23:14-debug: Query asset bundle √8%
+4-7-2022 23:14-debug: Process: heapTotal 194.32MB heapUsed 173.92MB rss 192.59MB
+4-7-2022 23:14-debug: Number of scenes: 1
+4-7-2022 23:14-log: // ---- Query and organize assets ----
+4-7-2022 23:14-debug: Query and organize assets start8%
+4-7-2022 23:14-debug: Number of assets: 38
+4-7-2022 23:14-debug: Organize scripts start9%
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 171.98MB rss 193.16MB
+4-7-2022 23:14-debug: sort script group...
+4-7-2022 23:14-debug: Organize scripts √10%
+4-7-2022 23:14-debug: Organize texture compression tasks start10%
+4-7-2022 23:14-log: // ---- Organize texture compression tasks ----
+4-7-2022 23:14-log: // ---- Organize scripts ----
+4-7-2022 23:14-debug: Query and organize assets √9%
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.00MB rss 193.16MB
+4-7-2022 23:14-debug: Number of asset bundle: 1
+4-7-2022 23:14-debug: Number of image-compress task: 0
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.18MB rss 193.58MB
+4-7-2022 23:14-debug: Number of json group: 1
+4-7-2022 23:14-debug: Group json √12%
+4-7-2022 23:14-debug: Merging Texture2D json start12%
+4-7-2022 23:14-log: // ---- Merging Texture2D json ----
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.21MB rss 193.58MB
+4-7-2022 23:14-debug: Merging Texture2D json √14%
+4-7-2022 23:14-debug:  start14%
+4-7-2022 23:14-log: // ----  ----
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.23MB rss 193.58MB
+4-7-2022 23:14-debug:  √15%
+4-7-2022 23:14-debug: web-mobile:(onBeforeBuildAssets) start...15%
+4-7-2022 23:14-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.25MB rss 193.58MB
+4-7-2022 23:14-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+4-7-2022 23:14-debug: web-mobile:(onBeforeBuildAssets)18%
+4-7-2022 23:14-debug:  start18%
+4-7-2022 23:14-log: // ----  ----
+4-7-2022 23:14-debug: Process: heapTotal 194.12MB heapUsed 172.27MB rss 193.59MB
+4-7-2022 23:14-debug: Group json start11%
+4-7-2022 23:14-debug: Organize texture compression tasks √11%
+4-7-2022 23:14-log: // ---- Group json ----
+4-7-2022 23:14-warn: Browserslist: caniuse-lite is outdated. Please run:npx browserslist@latest --update-db
+4-7-2022 23:14-warn: Browserslist: caniuse-lite is outdated. Please run:npx browserslist@latest --update-dbWhy you should do it regularly:https://github.com/browserslist/browserslist#browsers-data-updating
+4-7-2022 23:15-debug: Build script18%
+4-7-2022 23:15-debug: Process: heapTotal 216.24MB heapUsed 200.44MB rss 223.00MB
+4-7-2022 23:15-debug: Copy externalScripts success!
+4-7-2022 23:15-debug: Build script√18%
+4-7-2022 23:15-debug: Build engine18%
+4-7-2022 23:15-debug: Process: heapTotal 241.73MB heapUsed 219.74MB rss 249.46MB
+4-7-2022 23:15-debug: Engine cache ({link(/var/folders/ww/l9gf6zqj2gv298pfxmwysbcm0000gn/T/CocosCreator/3.4.1/builder/engine/b92c1fbd15020854c3d5b7692f8a942b)}) does not exist.
+4-7-2022 23:15-debug: {"incremental":"/var/folders/ww/l9gf6zqj2gv298pfxmwysbcm0000gn/T/CocosCreator/3.4.1/builder/engine/b92c1fbd15020854c3d5b7692f8a942b.watch-files.json","engine":"/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine","out":"/var/folders/ww/l9gf6zqj2gv298pfxmwysbcm0000gn/T/CocosCreator/3.4.1/builder/engine/b92c1fbd15020854c3d5b7692f8a942b","moduleFormat":2,"compress":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","buildTimeConstants":{"HTML5":true,"WECHAT":false,"ALIPAY":false,"BAIDU":false,"XIAOMI":false,"BYTEDANCE":false,"OPPO":false,"VIVO":false,"HUAWEI":false,"NATIVE":false,"COCOSPLAY":false,"LINKSURE":false,"QTT":false,"EDITOR":false,"PREVIEW":false,"BUILD":true,"TEST":false,"DEBUG":false,"UI_GPU_DRIVEN":false,"DEV":false,"RUNTIME_BASED":false,"MINIGAME":false,"JSB":false,"SUPPORT_JIT":true},"loose":true,"features":["base","gfx-webgl","gfx-webgl2","2d","ui","physics-2d-box2d","intersection-2d","profiler","particle-2d","audio","video","webview","tween","tiled-map","spine","dragon-bones","marionette"],"platform":"HTML5","mode":"BUILD"}
+4-7-2022 23:15-debug: Build-engine options: {  "incremental": "/var/folders/ww/l9gf6zqj2gv298pfxmwysbcm0000gn/T/CocosCreator/3.4.1/builder/engine/b92c1fbd15020854c3d5b7692f8a942b.watch-files.json",  "engine": "/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine",  "out": "/var/folders/ww/l9gf6zqj2gv298pfxmwysbcm0000gn/T/CocosCreator/3.4.1/builder/engine/b92c1fbd15020854c3d5b7692f8a942b",  "moduleFormat": 2,  "compress": true,  "split": false,  "ammoJsWasm": "fallback",  "assetURLFormat": "runtime-resolved",  "buildTimeConstants": {    "HTML5": true,    "WECHAT": false,    "ALIPAY": false,    "BAIDU": false,    "XIAOMI": false,    "BYTEDANCE": false,    "OPPO": false,    "VIVO": false,    "HUAWEI": false,    "NATIVE": false,    "COCOSPLAY": false,    "LINKSURE": false,    "QTT": false,    "EDITOR": false,    "PREVIEW": false,    "BUILD": true,    "TEST": false,    "DEBUG": false,    "UI_GPU_DRIVEN": false,    "DEV": false,    "RUNTIME_BASED": false,    "MINIGAME": false,    "JSB": false,    "SUPPORT_JIT": true  },  "loose": true,  "features": [    "base",    "gfx-webgl",    "gfx-webgl2",    "2d",    "ui",    "physics-2d-box2d",    "intersection-2d",    "profiler",    "particle-2d",    "audio",    "video",    "webview",    "tween",    "tiled-map",    "spine",    "dragon-bones",    "marionette"  ],  "platform": "HTML5",  "mode": "BUILD"}
+4-7-2022 23:15-debug: Module source "internal-constants":export const EXPORT_TO_GLOBAL = true;export const MARIONETTE = true;export const HTML5 = true;export const WECHAT = false;export const ALIPAY = false;export const BAIDU = false;export const XIAOMI = false;export const BYTEDANCE = false;export const OPPO = false;export const VIVO = false;export const HUAWEI = false;export const NATIVE = false;export const COCOSPLAY = false;export const LINKSURE = false;export const QTT = false;export const EDITOR = false;export const PREVIEW = false;export const BUILD = true;export const TEST = false;export const DEBUG = false;export const UI_GPU_DRIVEN = false;export const DEV = false;export const RUNTIME_BASED = false;export const MINIGAME = false;export const JSB = false;export const SUPPORT_JIT = true;
+4-7-2022 23:15-debug: Module source "cc":export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/base.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl2.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/2d.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/ui.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-box2d.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-framework.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/intersection-2d.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/profiler.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle-2d.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/audio.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/video.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/webview.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tween.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tiled-map.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/spine.ts';export * from '/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/dragon-bones.ts';
+4-7-2022 23:15-debug: Redirect module pal/system-info to /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/system-info/web/system-info.ts
+4-7-2022 23:15-debug: Redirect module pal/input to /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/input/web/index.ts
+4-7-2022 23:15-debug: Redirect module pal/screen-adapter to /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/screen-adapter/web/screen-adapter.ts
+4-7-2022 23:15-debug: Redirect module pal/minigame to /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/minigame/non-minigame.ts
+4-7-2022 23:15-debug: Redirect module pal/audio to /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/audio/web/player.ts
+4-7-2022 23:15-debug: Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/lib/spine-core.js
+4-7-2022 23:15-debug: Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/lib/spine-core.js
+4-7-2022 23:15-debug: Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+4-7-2022 23:15-debug: Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+4-7-2022 23:15-debug: ==== Performance ====
+4-7-2022 23:15-debug: {"# BUILD":[45253.742356,872171800,1103344084],"## generate module graph":[42507.011392,790431096,1021605672],"- plugin 0 (@cocos/build-engine|code-asset) - resolveId":[556.0534899999997,-4788972,1025957264],"- plugin 1 (@cocos/build-engine|load-asset) - resolveId":[491.6393190000003,810952,1025961332],"- plugin 1 (@cocos/build-engine|load-asset) - resolveId (async)":[2212.9243059999976,2952432,1025962136],"- plugin 2 (@cocos/build-engine|module-overrides) - resolveId":[464.11916499999853,531624,1025964488],"- plugin 3 (virtual) - resolveId":[468.86817899999994,5084196,1025976384],"load modules":[269438.81824399985,6255755116,1024132152],"- plugin 0 (@cocos/build-engine|code-asset) - load":[89.92463300000006,239012,1020678728],"- plugin 0 (@cocos/build-engine|code-asset) - load (async)":[85.36870200000008,157232,1020679012],"- plugin 1 (@cocos/build-engine|load-asset) - load":[84.294643,169164,1020679568],"- plugin 1 (@cocos/build-engine|load-asset) - load (async)":[86.67073400000005,155148,1020679852],"- plugin 2 (@cocos/build-engine|module-overrides) - load":[85.576662,68376,1020680244],"- plugin 3 (virtual) - load":[82.4704660000001,54636,1020680636],"- plugin 6 (json) - transform":[97.25080700000005,817436,1024137148],"- plugin 7 (commonjs) - transform":[732.0343580000001,8659504,1024140076],"- plugin 8 (babel) - transform":[380.17323800000014,5973688,1024172228],"generate ast":[1339.3273639999986,-369808,1025648352],"analyse ast":[1395.9720499999999,59757788,1025940556],"- plugin 4 (ts-paths) - resolveId":[414.82414999999963,275296,1025978736],"- plugin 5 (node-resolve) - resolveId":[468.99480899999986,3829432,1025996868],"- plugin 5 (node-resolve) - resolveId (async)":[248043.83690200103,6697504208,1025997152],"- plugin 5 (node-resolve) - load":[81.98073500000004,53992,1020681068],"- plugin 7 (commonjs) - load":[83.31469500000004,87972,1020681548],"- plugin 8 (babel) - load":[159.95731199999997,-2092728,1020681940],"- plugin 8 (babel) - transform (async)":[26884.75799599999,751510284,1025496000],"- plugin 7 (commonjs) - resolveId":[52.288994000000045,38332,1026010392],"- plugin 8 (babel) - resolveId":[47.165672000000015,24036,1026010784],"- plugin 7 (commonjs) - resolveId (async)":[11583.327566,226791204,982044404],"- plugin 7 (commonjs) - load (async)":[2189.422518,39062080,826830776],"## sort modules":[453.04832,17752584,1039358692],"## mark included statements":[2292.288844,63983824,1103342904],"treeshaking pass 1":[779.804793,30869000,1067818696],"treeshaking pass 2":[539.56585,14632344,1082451420],"treeshaking pass 3":[271.816784,8891248,1091343248],"treeshaking pass 4":[198.797022,8416612,1099760292],"treeshaking pass 5":[146.835062,-4180912,1095579808],"treeshaking pass 6":[111.298009,7768308,1103348544],"treeshaking pass 7":[112.551511,52356,1103401324],"treeshaking pass 8":[112.368378,-59244,1103342508]}
+4-7-2022 23:15-debug: ====             ====
+4-7-2022 23:16-debug: Build engine√18%
+4-7-2022 23:16-debug: Process: heapTotal 1049.42MB heapUsed 527.01MB rss 911.34MB
+4-7-2022 23:16-debug: Build auto-atlas √31%
+4-7-2022 23:16-debug: Compress Image start31%
+4-7-2022 23:16-log: // ---- Compress Image ----
+4-7-2022 23:16-debug: Process: heapTotal 1049.42MB heapUsed 527.03MB rss 911.35MB
+4-7-2022 23:16-debug: Compress Image √37%
+4-7-2022 23:16-debug: Copy the resource start37%
+4-7-2022 23:16-log: // ---- Copy the resource ----
+4-7-2022 23:16-debug: Process: heapTotal 1049.42MB heapUsed 527.04MB rss 911.36MB
+4-7-2022 23:16-debug:  √24%
+4-7-2022 23:16-debug: Build auto-atlas start24%
+4-7-2022 23:16-log: // ---- Build auto-atlas ----
+4-7-2022 23:16-debug: Asset Bundle(main) handle assets: 38
+4-7-2022 23:16-debug: Copy the resource √44%
+4-7-2022 23:16-debug: Build the grouped json and scatter files to the specified location start44%
+4-7-2022 23:16-log: // ---- Build the grouped json and scatter files to the specified location ----
+4-7-2022 23:16-debug: Process: heapTotal 1049.42MB heapUsed 527.35MB rss 911.41MB
+4-7-2022 23:16-debug: Json group(build-task/json) compile success，json number: 6
+4-7-2022 23:16-debug: Build the grouped json and scatter files to the specified location √51%
+4-7-2022 23:16-debug: Compress zip bundle √57%
+4-7-2022 23:16-debug: Add md5 suffix to assets start57%
+4-7-2022 23:16-log: // ---- Add md5 suffix to assets ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 531.60MB rss 916.64MB
+4-7-2022 23:16-debug: Add md5 suffix to assets √68%
+4-7-2022 23:16-debug: Init settings and config start68%
+4-7-2022 23:16-log: // ---- Init settings and config ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 531.61MB rss 916.64MB
+4-7-2022 23:16-debug: Init settings and config √68%
+4-7-2022 23:16-debug: tasks.settings.macro does not defined in i18n
+4-7-2022 23:16-debug: tasks.settings.macro start68%
+4-7-2022 23:16-debug: Compress zip bundle start51%
+4-7-2022 23:16-log: // ---- Compress zip bundle ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 531.58MB rss 916.64MB
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 531.62MB rss 916.65MB
+4-7-2022 23:16-log: // ---- tasks.settings.macro ----
+4-7-2022 23:16-debug: tasks.settings.macro √69%
+4-7-2022 23:16-debug: Use cached settings start69%
+4-7-2022 23:16-log: // ---- Use cached settings ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 531.93MB rss 916.67MB
+4-7-2022 23:16-debug: Use cached settings √69%
+4-7-2022 23:16-debug: custom joint texture layouts start69%
+4-7-2022 23:16-log: // ---- custom joint texture layouts ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.02MB rss 916.68MB
+4-7-2022 23:16-debug: custom joint texture layouts √70%
+4-7-2022 23:16-debug: custom joint physics √70%
+4-7-2022 23:16-debug: Fill script data to settings start70%
+4-7-2022 23:16-log: // ---- Fill script data to settings ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.10MB rss 916.68MB
+4-7-2022 23:16-debug: Fill script data to settings √71%
+4-7-2022 23:16-debug: Fill scene data to settings start71%
+4-7-2022 23:16-log: // ---- Fill scene data to settings ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.11MB rss 916.68MB
+4-7-2022 23:16-debug: Fill scene data to settings √71%
+4-7-2022 23:16-debug: Organize assets groups，generate packedAssets and rawAssets data start71%
+4-7-2022 23:16-log: // ---- Organize assets groups，generate packedAssets and rawAssets data ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.12MB rss 916.68MB
+4-7-2022 23:16-debug: Organize assets groups，generate packedAssets and rawAssets data √72%
+4-7-2022 23:16-debug: Generate md5AssetsMap from suffixMap to settings start72%
+4-7-2022 23:16-log: // ---- Generate md5AssetsMap from suffixMap to settings ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.13MB rss 916.69MB
+4-7-2022 23:16-debug: options.md5Cache is false.
+4-7-2022 23:16-debug: Generate md5AssetsMap from suffixMap to settings √72%
+4-7-2022 23:16-debug: web-mobile:(onBeforeCompressSettings) start...72%
+4-7-2022 23:16-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.15MB rss 916.69MB
+4-7-2022 23:16-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+4-7-2022 23:16-debug: web-mobile:(onBeforeCompressSettings)75%
+4-7-2022 23:16-debug: cocos-service:(onBeforeCompressSettings) start...75%
+4-7-2022 23:16-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.17MB rss 916.69MB
+4-7-2022 23:16-debug: Process: heapTotal 1057.38MB heapUsed 532.08MB rss 916.68MB
+4-7-2022 23:16-log: // ---- custom joint physics ----
+4-7-2022 23:16-debug: custom joint physics start70%
+4-7-2022 23:16-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 528.98MB rss 916.60MB
+4-7-2022 23:16-debug:  start77%
+4-7-2022 23:16-log: // ----  ----
+4-7-2022 23:16-debug: cocos-service:(onBeforeCompressSettings)77%
+4-7-2022 23:16-debug:  √78%
+4-7-2022 23:16-log: // ---- Save config.json ----
+4-7-2022 23:16-debug: Save config.json start79%
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 529.07MB rss 916.61MB
+4-7-2022 23:16-debug: Compress settings.json and config.json √79%
+4-7-2022 23:16-debug: Save config.json √80%
+4-7-2022 23:16-debug: Save Settings.json start80%
+4-7-2022 23:16-log: // ---- Save Settings.json ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 529.08MB rss 916.61MB
+4-7-2022 23:16-debug: Save Settings.json √81%
+4-7-2022 23:16-debug: Sort build template start81%
+4-7-2022 23:16-log: // ---- Sort build template ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 529.19MB rss 916.61MB
+4-7-2022 23:16-debug: Sort build template √82%
+4-7-2022 23:16-debug: cocos-service:(onAfterCompressSettings) start...82%
+4-7-2022 23:16-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 530.06MB rss 916.79MB
+4-7-2022 23:16-log: // ---- Compress settings.json and config.json ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 529.02MB rss 916.60MB
+4-7-2022 23:16-debug: Compress settings.json and config.json start78%
+4-7-2022 23:16-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 530.54MB rss 916.80MB
+4-7-2022 23:16-debug: // ---- web-mobile:(onAfterBuild) success ----
+4-7-2022 23:16-debug: web-mobile:(onAfterBuild)87%
+4-7-2022 23:16-debug: cocos-service:(onAfterBuild) start...87%
+4-7-2022 23:16-debug: // ---- cocos-service:(onAfterBuild) ----
+4-7-2022 23:16-debug: Process: heapTotal 1056.42MB heapUsed 532.46MB rss 916.83MB
+4-7-2022 23:16-debug: cocos-service:(onAfterCompressSettings)85%
+4-7-2022 23:16-debug: web-mobile:(onAfterBuild) start...85%
+4-7-2022 23:16-debug: // ---- web-mobile:(onAfterBuild) ----
+4-7-2022 23:16-debug: // ---- cocos-service:(onAfterBuild) success ----
+4-7-2022 23:16-debug: cocos-service:(onAfterBuild)90%
+4-7-2022 23:16-debug: build success in 97069 ms!
+4-7-2022 23:16-debug: Stop record console. {file(/Users/lamngo/Desktop/Cocos/RedandBlue_1/temp/builder/log/web-mobile4-7-2022 23-14.log)}

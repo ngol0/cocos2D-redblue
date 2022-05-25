@@ -1,0 +1,1034 @@
+{
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite.meta": {
+    "time": 1646106670382.0474
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite": {
+    "time": 1650011712337.4492,
+    "uuid": "1179af90-f88c-451f-9f5d-f40743153396",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/White.png.meta": {
+    "time": 1646106662503.2908
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/White.png": {
+    "time": 1646106662491.5535,
+    "uuid": "929fc290-91ff-472b-9d5c-5f057ea431e5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script.meta": {
+    "time": 1646107045507.3271
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script": {
+    "time": 1650014323297.2043,
+    "uuid": "4dd00a47-f448-4baa-9208-b9d567172f10",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts.meta": {
+    "time": 1646107051800.3738
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts": {
+    "time": 1650013341598.7295,
+    "uuid": "09661a4f-e813-4c8f-9f82-2de06a7a40a3",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab.meta": {
+    "time": 1646112076551.9607
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab": {
+    "time": 1650015640813.4448,
+    "uuid": "2f032726-b01d-4bff-9f36-dec0dc52749b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/BackgroundTile.prefab.meta": {
+    "time": 1646110016307.6077
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/BackgroundTile.prefab": {
+    "time": 1646110328372.7046,
+    "uuid": "5cbfda90-8a17-430e-ac28-6afdcbec54bb",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Enemy.ts.meta": {
+    "time": 1646128393270.502
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Enemy.ts": {
+    "time": 1649993830399.9543,
+    "uuid": "97e11c6e-d509-4056-9d87-339ac06936c7",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts.meta": {
+    "time": 1646191146719.4065
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts": {
+    "time": 1650031943872.4949,
+    "uuid": "52bc9346-2395-4630-809a-b39b86ac8432",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Player.prefab.meta": {
+    "time": 1646195681461.3494
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Player.prefab": {
+    "time": 1648788739887.6165,
+    "uuid": "2c23eb1b-9c14-4af3-aeb7-39446307279a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/RedObstacles.prefab.meta": {
+    "time": 1646195747950.531
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/RedObstacles.prefab": {
+    "time": 1650018077800.4824,
+    "uuid": "5d6cede6-9c2f-418a-b000-75db5f120707",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Circle.png.meta": {
+    "time": 1646196898490.5537
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Circle.png": {
+    "time": 1646196898464.7024,
+    "uuid": "40484399-a6c1-4dca-8bb9-d446a54d7305",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/StoneObstacles.prefab.meta": {
+    "time": 1646197142283.8896
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/StoneObstacles.prefab": {
+    "time": 1650018085932.47,
+    "uuid": "1d210e88-eb27-4926-8cec-dc84207c5f90",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts.meta": {
+    "time": 1646289688014.8496
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts": {
+    "time": 1649994211641.2314,
+    "uuid": "ce0cdb2a-7a6e-4875-b69c-509be565ddd4",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Scene.meta": {
+    "time": 1646289952783.3105
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Scene": {
+    "time": 1646289955124.6255,
+    "uuid": "2f218c7a-73a8-4ee2-bad7-6831be1015df",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Scene/scene.scene.meta": {
+    "time": 1646109054832.5889
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Scene/scene.scene": {
+    "time": 1650336773728.9768,
+    "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/TouchManager.ts.meta": {
+    "time": 1646370280922.57
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/TouchManager.ts": {
+    "time": 1650015047639.6396,
+    "uuid": "bcb12a5d-da2d-4d3d-96f6-b0ac17b61c81",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Shield.prefab.meta": {
+    "time": 1646800715664.613
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Shield.prefab": {
+    "time": 1647001925212.553,
+    "uuid": "4fdd780c-cdb1-4a9e-a282-be418f3ab37e",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldAct.ts.meta": {
+    "time": 1646801668683.8518
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldAct.ts": {
+    "time": 1647002077335.4329,
+    "uuid": "6e58bf15-c724-421f-8051-dd5a8ecf45cc",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts.meta": {
+    "time": 1646972420728.0823
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts": {
+    "time": 1648797750888.1333,
+    "uuid": "f19f5aef-37d4-4427-9304-ee95674b99e8",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldIcon.ts.meta": {
+    "time": 1646801257518.4172
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldIcon.ts": {
+    "time": 1647001662321.7903,
+    "uuid": "9dc4a61a-9a24-49a5-8bdc-1f1e7ada870a",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/EnemySpawner.ts.meta": {
+    "time": 1646297179478.4146
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/EnemySpawner.ts": {
+    "time": 1650028305694.3125,
+    "uuid": "2fdddf62-1280-49e7-a587-481fb601adab",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 1 (7).png.meta": {
+    "time": 1648706769894.8547
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 1 (7).png": {
+    "time": 1648706769867.9055,
+    "uuid": "16391195-045c-4cce-92d5-d6bdde4aef0a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Gun.ts.meta": {
+    "time": 1648777760050.859
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Gun.ts": {
+    "time": 1650031134966.1025,
+    "uuid": "314054e6-99e9-47cc-8b86-695ea9560bb4",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GunIcon.ts.meta": {
+    "time": 1648783516874.9854
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GunIcon.ts": {
+    "time": 1648788035034.1655,
+    "uuid": "9ada975b-eb10-4ed8-8260-6f7e2de7a876",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/ball2.png.meta": {
+    "time": 1648783711879.7864
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/ball2.png": {
+    "time": 1648783711849.8735,
+    "uuid": "9d2abec8-9a2e-4518-a977-3f51306c4893",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/bullet.png.meta": {
+    "time": 1648783723447.0815
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/bullet.png": {
+    "time": 1648783723430.4268,
+    "uuid": "89e87d92-99db-4b40-997c-160244706120",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Bullet.prefab.meta": {
+    "time": 1648783764082.544
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Bullet.prefab": {
+    "time": 1648786278524.4087,
+    "uuid": "345aa566-ba53-48ff-9383-4f96254cae85",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Bullet.ts.meta": {
+    "time": 1648783847638.5823
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Bullet.ts": {
+    "time": 1650018220756.9126,
+    "uuid": "a58c8fe3-5082-487b-9e45-7aa476a993ac",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 3 (4).png.meta": {
+    "time": 1648790698433.9978
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 3 (4).png": {
+    "time": 1648790698408.4438,
+    "uuid": "cc93d47b-99dc-4712-ba75-d19e4f71d6f1",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/SpeedIcon.ts.meta": {
+    "time": 1648796085624.9973
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/SpeedIcon.ts": {
+    "time": 1648808745775.2952,
+    "uuid": "8c76be3a-2acf-4ed8-8628-69dc01d4941b",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 2 (2).png.meta": {
+    "time": 1648797038604.686
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 2 (2).png": {
+    "time": 1648797038580.7954,
+    "uuid": "a9fac7e2-195d-47b7-bd74-e7bdfb6773b0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 4 (2).png.meta": {
+    "time": 1649317224274.3438
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/Frame 4 (2).png": {
+    "time": 1649317224240.5317,
+    "uuid": "829b7c1f-c04b-482b-918e-a7c6703dd14e",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BombIcon.ts.meta": {
+    "time": 1649317418379.368
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BombIcon.ts": {
+    "time": 1649347963179.4458,
+    "uuid": "3f2a4383-573b-49f6-94c9-9eb906dbc8cf",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/bomb.prefab.meta": {
+    "time": 1649318043878.0144
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/bomb.prefab": {
+    "time": 1649332824003.8735,
+    "uuid": "1af1019e-a138-4970-bb6d-11a85559cdbd",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/particle_texture.png.meta": {
+    "time": 1649320169810.3948
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/particle_texture.png": {
+    "time": 1649320169782.8533,
+    "uuid": "bce0683b-945b-4417-9d7a-d4e053145fbf",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Explosion-001.prefab.meta": {
+    "time": 1649332819600.826
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Explosion-001.prefab": {
+    "time": 1649332819599.6995,
+    "uuid": "6122fcc2-6f95-47e5-89d8-1132f285757d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BossSpawner.ts.meta": {
+    "time": 1650000593431.4253
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BossSpawner.ts": {
+    "time": 1650336630997.4963,
+    "uuid": "78994293-6e7b-4de6-aa9d-cb1d1581184c",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/enemy1-3.png.meta": {
+    "time": 1650011712367.4143
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Sprite/enemy1-3.png": {
+    "time": 1650011712336.5818,
+    "uuid": "0a93c460-5c20-4752-b74a-a16feac4be87",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Boss.ts.meta": {
+    "time": 1650014323298.3455
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Boss.ts": {
+    "time": 1650030885084.02,
+    "uuid": "4565406c-2bf0-4104-a841-0a6e83e4bb1b",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Boss.prefab.meta": {
+    "time": 1650015640816.396
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Prefab/Boss.prefab": {
+    "time": 1650018989153.1177,
+    "uuid": "65b8a110-b380-407f-bfab-3587fb4e60fe",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab": {
+    "time": 1651723309679.7017,
+    "uuid": "2f032726-b01d-4bff-9f36-dec0dc52749b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Scene": {
+    "time": 1651662530000,
+    "uuid": "2f218c7a-73a8-4ee2-bad7-6831be1015df",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script": {
+    "time": 1651739082923.8247,
+    "uuid": "4dd00a47-f448-4baa-9208-b9d567172f10",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite": {
+    "time": 1651662526000,
+    "uuid": "1179af90-f88c-451f-9f5d-f40743153396",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/BackgroundTile.prefab": {
+    "time": 1646110328372.7046,
+    "uuid": "5cbfda90-8a17-430e-ac28-6afdcbec54bb",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Boss.prefab": {
+    "time": 1651649161348.409,
+    "uuid": "65b8a110-b380-407f-bfab-3587fb4e60fe",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Bullet.prefab": {
+    "time": 1651656437608.4824,
+    "uuid": "345aa566-ba53-48ff-9383-4f96254cae85",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Explosion-001.prefab": {
+    "time": 1649332819599.6995,
+    "uuid": "6122fcc2-6f95-47e5-89d8-1132f285757d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Player.prefab": {
+    "time": 1651654456607.7988,
+    "uuid": "2c23eb1b-9c14-4af3-aeb7-39446307279a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/RedObstacles.prefab": {
+    "time": 1651649345400.482,
+    "uuid": "5d6cede6-9c2f-418a-b000-75db5f120707",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Shield.prefab": {
+    "time": 1651649127791.8022,
+    "uuid": "4fdd780c-cdb1-4a9e-a282-be418f3ab37e",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/StoneObstacles.prefab": {
+    "time": 1651649353049.6333,
+    "uuid": "1d210e88-eb27-4926-8cec-dc84207c5f90",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/bomb.prefab": {
+    "time": 1649332824003.8735,
+    "uuid": "1af1019e-a138-4970-bb6d-11a85559cdbd",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Scene/scene.scene": {
+    "time": 1651746031903.2227,
+    "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Circle.png": {
+    "time": 1646196898464.7024,
+    "uuid": "40484399-a6c1-4dca-8bb9-d446a54d7305",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 1 (7).png": {
+    "time": 1648706769867.9055,
+    "uuid": "16391195-045c-4cce-92d5-d6bdde4aef0a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 2 (2).png": {
+    "time": 1648797038580.7952,
+    "uuid": "a9fac7e2-195d-47b7-bd74-e7bdfb6773b0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 3 (4).png": {
+    "time": 1648790698408.4438,
+    "uuid": "cc93d47b-99dc-4712-ba75-d19e4f71d6f1",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 4 (2).png": {
+    "time": 1649317224240.5317,
+    "uuid": "829b7c1f-c04b-482b-918e-a7c6703dd14e",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/White.png": {
+    "time": 1646106662491.5532,
+    "uuid": "929fc290-91ff-472b-9d5c-5f057ea431e5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/ball2.png": {
+    "time": 1648783711849.8735,
+    "uuid": "9d2abec8-9a2e-4518-a977-3f51306c4893",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/bullet.png": {
+    "time": 1648783723430.4265,
+    "uuid": "89e87d92-99db-4b40-997c-160244706120",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/enemy1-3.png": {
+    "time": 1650011712336.5818,
+    "uuid": "0a93c460-5c20-4752-b74a-a16feac4be87",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/particle_texture.png": {
+    "time": 1649320169782.8533,
+    "uuid": "bce0683b-945b-4417-9d7a-d4e053145fbf",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab.meta": {
+    "time": 1646112076551.961
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Scene.meta": {
+    "time": 1646289952783.3105
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script.meta": {
+    "time": 1646107045507.3271
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite.meta": {
+    "time": 1646106670382.0474
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/BackgroundTile.prefab.meta": {
+    "time": 1646110016307.6077
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Boss.prefab.meta": {
+    "time": 1650015640816.396
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Explosion-001.prefab.meta": {
+    "time": 1649332819600.826
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Bullet.prefab.meta": {
+    "time": 1648783764082.544
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Player.prefab.meta": {
+    "time": 1646195681461.3494
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/RedObstacles.prefab.meta": {
+    "time": 1646195747950.531
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Shield.prefab.meta": {
+    "time": 1646800715664.613
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/StoneObstacles.prefab.meta": {
+    "time": 1646197142283.8896
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/bomb.prefab.meta": {
+    "time": 1649318043878.0144
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Scene/scene.scene.meta": {
+    "time": 1646109054832.5889
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 4 (2).png.meta": {
+    "time": 1649317224274.3438
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Circle.png.meta": {
+    "time": 1646196898490.554
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 1 (7).png.meta": {
+    "time": 1648706769894.8547
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 2 (2).png.meta": {
+    "time": 1648797038604.686
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/Frame 3 (4).png.meta": {
+    "time": 1648790698433.9978
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/bullet.png.meta": {
+    "time": 1648783723447.0818
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/ball2.png.meta": {
+    "time": 1648783711879.7864
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/particle_texture.png.meta": {
+    "time": 1649320169810.3948
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/enemy1-3.png.meta": {
+    "time": 1650011712367.4143
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Sprite/White.png.meta": {
+    "time": 1646106662503.2908
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerController.ts.meta": {
+    "time": 1651640995610.2175
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerController.ts": {
+    "time": 1651656630877.6274,
+    "uuid": "cfdfedde-9ce9-44d5-8622-ad65a6680f12",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InputController.ts.meta": {
+    "time": 1651641029557.8083
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InputController.ts": {
+    "time": 1651656646380.7292,
+    "uuid": "151853d4-73e2-482e-97ce-c06feb475d4d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GameManager.ts.meta": {
+    "time": 1651641304505.4968
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GameManager.ts": {
+    "time": 1651641322427.4932,
+    "uuid": "4adce07f-caf8-4b0e-bd6c-25bc13a1db4d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts.meta": {
+    "time": 1651642299620.958
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts": {
+    "time": 1651742230995.6821,
+    "uuid": "151944fa-0a7d-4b29-b1e3-03caf23c6cf9",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/PlayerEnemy.prefab.meta": {
+    "time": 1651655227982.8801
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/PlayerEnemy.prefab": {
+    "time": 1651655292305.1924,
+    "uuid": "4547fdfa-e6b7-4ced-9c1e-7ab2f6924ad9",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Bullet.ts.meta": {
+    "time": 1651642853447.375
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Bullet.ts": {
+    "time": 1651722107642.0354,
+    "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Enemy.ts.meta": {
+    "time": 1651642753728.7068
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Enemy.ts": {
+    "time": 1651745415988.5679,
+    "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerEnemy.ts.meta": {
+    "time": 1651647498657.1545
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerEnemy.ts": {
+    "time": 1651745423669.5078,
+    "uuid": "43b84786-efc3-40ec-970e-30278bd26f7d",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts.meta": {
+    "time": 1651646609717.5393
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts": {
+    "time": 1651668944617.1758,
+    "uuid": "a495f498-695d-4831-87ea-d7839cc0c978",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractableObject.ts.meta": {
+    "time": 1651668487173.7566
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractableObject.ts": {
+    "time": 1651741617578.4624,
+    "uuid": "f4682b96-43d3-4b23-8d3b-8a6af5ba2ca0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Gun Icon.prefab.meta": {
+    "time": 1651723302385.5742
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Gun Icon.prefab": {
+    "time": 1651745930932.9314,
+    "uuid": "723c8f5f-308c-4d3d-9a69-a7573246f41b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Shield Icon.prefab.meta": {
+    "time": 1651723305009.6567
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Shield Icon.prefab": {
+    "time": 1651745936099.3499,
+    "uuid": "f52ec075-56e3-4c97-ad39-d15e5c3bf742",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Speed Icon.prefab.meta": {
+    "time": 1651723308088.2625
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Speed Icon.prefab": {
+    "time": 1651745942076.9285,
+    "uuid": "e1dddadb-5425-4ec6-a2af-cb77b3f46cfa",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Bomb Icon.prefab.meta": {
+    "time": 1651723309682.7708
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Prefab/Bomb Icon.prefab": {
+    "time": 1651745923995.2258,
+    "uuid": "9211dd68-7564-46fb-86b2-31e708a4d014",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController.ts.meta": {
+    "time": 1651645636270.7402
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController.ts": {
+    "time": 1651745154484.1636,
+    "uuid": "1aee7a1b-9021-446a-a7f2-1a7a797327a9",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GunIcon.ts.meta": {
+    "time": 1651739072382.983
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GunIcon.ts": {
+    "time": 1651739072376.9417,
+    "uuid": "5d7f243d-f7f4-4050-9b7a-b3773fcc6f90",
+    "missing": true
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Icons.ts.meta": {
+    "time": 1651739082924.7466
+  },
+  "/Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Icons.ts": {
+    "time": 1651746033511.6343,
+    "uuid": "0727d7d9-2b36-4f08-ab46-5532d6b0be2e",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab": {
+    "time": 1652341452357.4265,
+    "uuid": "2f032726-b01d-4bff-9f36-dec0dc52749b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Scene": {
+    "time": 1651746391000,
+    "uuid": "2f218c7a-73a8-4ee2-bad7-6831be1015df",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script": {
+    "time": 1652415734275.277,
+    "uuid": "4dd00a47-f448-4baa-9208-b9d567172f10",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite": {
+    "time": 1651746390000,
+    "uuid": "1179af90-f88c-451f-9f5d-f40743153396",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/BackgroundTile.prefab": {
+    "time": 1646110328372.7046,
+    "uuid": "5cbfda90-8a17-430e-ac28-6afdcbec54bb",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Bomb Icon.prefab": {
+    "time": 1652085789564.6714,
+    "uuid": "9211dd68-7564-46fb-86b2-31e708a4d014",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Boss.prefab": {
+    "time": 1652345026761.0188,
+    "uuid": "65b8a110-b380-407f-bfab-3587fb4e60fe",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Bullet.prefab": {
+    "time": 1651656437608.4824,
+    "uuid": "345aa566-ba53-48ff-9383-4f96254cae85",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Explosion-001.prefab": {
+    "time": 1649332819599.6995,
+    "uuid": "6122fcc2-6f95-47e5-89d8-1132f285757d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Gun Icon.prefab": {
+    "time": 1651834050610.9507,
+    "uuid": "723c8f5f-308c-4d3d-9a69-a7573246f41b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Player.prefab": {
+    "time": 1652171306772.0706,
+    "uuid": "2c23eb1b-9c14-4af3-aeb7-39446307279a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/PlayerEnemy.prefab": {
+    "time": 1652411973243.0615,
+    "uuid": "4547fdfa-e6b7-4ced-9c1e-7ab2f6924ad9",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/RedObstacles.prefab": {
+    "time": 1652411891935.7502,
+    "uuid": "5d6cede6-9c2f-418a-b000-75db5f120707",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Shield Icon.prefab": {
+    "time": 1652332606660.851,
+    "uuid": "f52ec075-56e3-4c97-ad39-d15e5c3bf742",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Speed Icon.prefab": {
+    "time": 1651833739832.9553,
+    "uuid": "e1dddadb-5425-4ec6-a2af-cb77b3f46cfa",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/StoneObstacles.prefab": {
+    "time": 1652411899215.3748,
+    "uuid": "1d210e88-eb27-4926-8cec-dc84207c5f90",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bomb.prefab": {
+    "time": 1652069386173.9832,
+    "uuid": "1af1019e-a138-4970-bb6d-11a85559cdbd",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Scene/scene.scene": {
+    "time": 1652498355706.1418,
+    "uuid": "ff4226fe-0acf-401b-bca2-29453348327c",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts": {
+    "time": 1652427367964.4482,
+    "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts": {
+    "time": 1652411766187.2966,
+    "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts": {
+    "time": 1652427968793.635,
+    "uuid": "4adce07f-caf8-4b0e-bd6c-25bc13a1db4d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts": {
+    "time": 1652329031382.2837,
+    "uuid": "0727d7d9-2b36-4f08-ab46-5532d6b0be2e",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts": {
+    "time": 1652353979650.6555,
+    "uuid": "151853d4-73e2-482e-97ce-c06feb475d4d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts": {
+    "time": 1652342270834.7375,
+    "uuid": "f4682b96-43d3-4b23-8d3b-8a6af5ba2ca0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts": {
+    "time": 1652498351331.188,
+    "uuid": "cfdfedde-9ce9-44d5-8622-ad65a6680f12",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts": {
+    "time": 1652415816281.0393,
+    "uuid": "151944fa-0a7d-4b29-b1e3-03caf23c6cf9",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts": {
+    "time": 1652175103931.6196,
+    "uuid": "a495f498-695d-4831-87ea-d7839cc0c978",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Circle.png": {
+    "time": 1646196898464.7024,
+    "uuid": "40484399-a6c1-4dca-8bb9-d446a54d7305",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 1 (7).png": {
+    "time": 1648706769867.9055,
+    "uuid": "16391195-045c-4cce-92d5-d6bdde4aef0a",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 2 (2).png": {
+    "time": 1648797038580.7952,
+    "uuid": "a9fac7e2-195d-47b7-bd74-e7bdfb6773b0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 3 (4).png": {
+    "time": 1648790698408.4438,
+    "uuid": "cc93d47b-99dc-4712-ba75-d19e4f71d6f1",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 4 (2).png": {
+    "time": 1649317224240.5317,
+    "uuid": "829b7c1f-c04b-482b-918e-a7c6703dd14e",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/White.png": {
+    "time": 1646106662491.5532,
+    "uuid": "929fc290-91ff-472b-9d5c-5f057ea431e5",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/ball2.png": {
+    "time": 1648783711849.8735,
+    "uuid": "9d2abec8-9a2e-4518-a977-3f51306c4893",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/bullet.png": {
+    "time": 1648783723430.4265,
+    "uuid": "89e87d92-99db-4b40-997c-160244706120",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/enemy1-3.png": {
+    "time": 1650011712336.5818,
+    "uuid": "0a93c460-5c20-4752-b74a-a16feac4be87",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/particle_texture.png": {
+    "time": 1649320169782.8533,
+    "uuid": "bce0683b-945b-4417-9d7a-d4e053145fbf",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab.meta": {
+    "time": 1646112076551.961
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Scene.meta": {
+    "time": 1646289952783.3105
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script.meta": {
+    "time": 1646107045507.3271
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite.meta": {
+    "time": 1646106670382.0474
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/BackgroundTile.prefab.meta": {
+    "time": 1646110016307.6077
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Bomb Icon.prefab.meta": {
+    "time": 1651723309682.7708
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Boss.prefab.meta": {
+    "time": 1650015640816.396
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Bullet.prefab.meta": {
+    "time": 1648783764082.544
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Explosion-001.prefab.meta": {
+    "time": 1649332819600.826
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Gun Icon.prefab.meta": {
+    "time": 1651723302385.5745
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Player.prefab.meta": {
+    "time": 1646195681461.3494
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/RedObstacles.prefab.meta": {
+    "time": 1646195747950.531
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Shield Icon.prefab.meta": {
+    "time": 1651723305009.6567
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/PlayerEnemy.prefab.meta": {
+    "time": 1651655227982.8801
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Speed Icon.prefab.meta": {
+    "time": 1651723308088.2625
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts.meta": {
+    "time": 1651642853447.375
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/StoneObstacles.prefab.meta": {
+    "time": 1646197142283.8896
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bomb.prefab.meta": {
+    "time": 1649318043878.0144
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts.meta": {
+    "time": 1651642753728.7068
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts.meta": {
+    "time": 1651641304505.4968
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Scene/scene.scene.meta": {
+    "time": 1646109054832.5889
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts.meta": {
+    "time": 1651739082924.7466
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts.meta": {
+    "time": 1651641029557.8083
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts.meta": {
+    "time": 1651668487173.7566
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts.meta": {
+    "time": 1651640995610.2175
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts.meta": {
+    "time": 1651642299620.958
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts.meta": {
+    "time": 1651646609717.5393
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Circle.png.meta": {
+    "time": 1646196898490.554
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 2 (2).png.meta": {
+    "time": 1648797038604.686
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 1 (7).png.meta": {
+    "time": 1648706769894.8547
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 3 (4).png.meta": {
+    "time": 1648790698433.9978
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/Frame 4 (2).png.meta": {
+    "time": 1649317224274.3438
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/bullet.png.meta": {
+    "time": 1648783723447.0818
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/White.png.meta": {
+    "time": 1646106662503.2908
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/enemy1-3.png.meta": {
+    "time": 1650011712367.4143
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/ball2.png.meta": {
+    "time": 1648783711879.7864
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Sprite/particle_texture.png.meta": {
+    "time": 1649320169810.3948
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts.meta": {
+    "time": 1651807750614.752
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts": {
+    "time": 1652498264383.307,
+    "uuid": "de134a07-c004-4749-a066-1207b9d6ba91",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts.meta": {
+    "time": 1651829348466.1777
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts": {
+    "time": 1652171520142.874,
+    "uuid": "c286436f-670d-42a4-b40e-d31247fa2e07",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Shield.prefab.meta": {
+    "time": 1651892854714.6926
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/Shield.prefab": {
+    "time": 1651892854713.1848,
+    "uuid": "10d4cf8b-27b3-4848-92f3-be1f864469d6",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts.meta": {
+    "time": 1651994668247.983
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts": {
+    "time": 1652342397071.8943,
+    "uuid": "330c374f-4870-4fa5-92b7-9af5d71f6320",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bombSprite.prefab.meta": {
+    "time": 1652068314665.2476
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bombSprite.prefab": {
+    "time": 1652342644695.4143,
+    "uuid": "38d95b20-e509-4a12-9212-ec347836b56d",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts.meta": {
+    "time": 1652069975565.4573
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts": {
+    "time": 1652416216174.2136,
+    "uuid": "e084175f-cee9-425f-be18-5750486b8c3b",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts.meta": {
+    "time": 1652084774603.9773
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts": {
+    "time": 1652168164085.0828,
+    "uuid": "5ebeaa82-f94a-4497-a820-eea024192748",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts.meta": {
+    "time": 1652165419121.6523
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts": {
+    "time": 1652167001056.2769,
+    "uuid": "9572748e-c93a-4c35-82ec-dbb27565acae",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts.meta": {
+    "time": 1652330012833.0344
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts": {
+    "time": 1652498133117.8572,
+    "uuid": "47e2dde8-fa49-4f30-8311-7b28ac687c28",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts.meta": {
+    "time": 1652341424765.8528
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts": {
+    "time": 1652348656038.144,
+    "uuid": "32a780e0-8b9d-45cd-a892-60d560fb73a0",
+    "missing": false
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bombSprite-001.prefab.meta": {
+    "time": 1652341452361.1633
+  },
+  "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Prefab/bombSprite-001.prefab": {
+    "time": 1652348584725.3884,
+    "uuid": "72312dcb-6fde-4111-8223-80ab655b4b94",
+    "missing": false
+  }
+}

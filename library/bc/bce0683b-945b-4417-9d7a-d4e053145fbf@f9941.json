@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "particle_texture",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 29,
+      "height": 29
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 29,
+      "height": 29
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "bce0683b-945b-4417-9d7a-d4e053145fbf@6c48a",
+    "packable": true
+  }
+}

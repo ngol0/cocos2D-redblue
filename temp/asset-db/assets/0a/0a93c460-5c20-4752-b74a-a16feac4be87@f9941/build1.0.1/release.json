@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "0ak8RgXCBHUrdKoW/qxL6H@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "enemy1-3",
+            "rect": {
+                "x": 5,
+                "y": 65,
+                "width": 230,
+                "height": 125
+            },
+            "offset": {
+                "x": 0,
+                "y": -7.5
+            },
+            "originalSize": {
+                "width": 240,
+                "height": 240
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

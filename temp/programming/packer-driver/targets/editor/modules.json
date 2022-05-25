@@ -1,0 +1,6056 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 8075.827058000024,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 2969060.0729529997,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 35
+          },
+          "end": {
+            "line": 5,
+            "column": 107
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 123
+          },
+          "end": {
+            "line": 5,
+            "column": 199
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 215
+          },
+          "end": {
+            "line": 5,
+            "column": 287
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 303
+          },
+          "end": {
+            "line": 5,
+            "column": 381
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 397
+          },
+          "end": {
+            "line": 5,
+            "column": 471
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 487
+          },
+          "end": {
+            "line": 5,
+            "column": 566
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 582
+          },
+          "end": {
+            "line": 5,
+            "column": 655
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 671
+          },
+          "end": {
+            "line": 5,
+            "column": 748
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 764
+          },
+          "end": {
+            "line": 5,
+            "column": 843
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 859
+          },
+          "end": {
+            "line": 5,
+            "column": 930
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 946
+          },
+          "end": {
+            "line": 5,
+            "column": 1019
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1035
+          },
+          "end": {
+            "line": 5,
+            "column": 1118
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1134
+          },
+          "end": {
+            "line": 5,
+            "column": 1220
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1236
+          },
+          "end": {
+            "line": 5,
+            "column": 1320
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1336
+          },
+          "end": {
+            "line": 5,
+            "column": 1415
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1431
+          },
+          "end": {
+            "line": 5,
+            "column": 1510
+          }
+        }
+      },
+      {
+        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1526
+          },
+          "end": {
+            "line": 5,
+            "column": 1601
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts": {
+    "mTimestamp": {
+      "mtime": 1650013341598.7295,
+      "uuid": "09661a4f-e813-4c8f-9f82-2de06a7a40a3"
+    },
+    "chunkId": "assets/Script/Player.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 215
+          },
+          "end": {
+            "line": 2,
+            "column": 219
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/SpawnManager.ts": {
+    "mTimestamp": {
+      "mtime": 1646296011562.404,
+      "uuid": "1903a313-3d89-4b16-833c-604fdd3e77dc"
+    },
+    "chunkId": "assets/Script/SpawnManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 102
+          },
+          "end": {
+            "line": 2,
+            "column": 106
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts": {
+    "mTimestamp": {
+      "mtime": 1650031943872.4949,
+      "uuid": "52bc9346-2395-4630-809a-b39b86ac8432"
+    },
+    "chunkId": "assets/Script/PoolManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 105
+          },
+          "end": {
+            "line": 2,
+            "column": 109
+          }
+        }
+      },
+      {
+        "value": "./Bullet",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Enemy",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 22
+          },
+          "end": {
+            "line": 4,
+            "column": 31
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Bullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Enemy.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1649993830399.9543,
+      "uuid": "97e11c6e-d509-4056-9d87-339ac06936c7"
+    },
+    "chunkId": "assets/Script/Enemy.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 116
+          },
+          "end": {
+            "line": 2,
+            "column": 120
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/TouchRight.ts": {
+    "mTimestamp": {
+      "mtime": 1646289795074.3828,
+      "uuid": "ca2b30de-b605-434d-a048-1b2362eda831"
+    },
+    "chunkId": "assets/Script/TouchRight.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/TouchLeft.ts": {
+    "mTimestamp": {
+      "mtime": 1646289777222.334,
+      "uuid": "3b1c8c8b-7ea5-4855-8341-b17adf4be1aa"
+    },
+    "chunkId": "assets/Script/TouchLeft.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1652495386262,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts": {
+    "mTimestamp": {
+      "mtime": 1649994211641.2314,
+      "uuid": "ce0cdb2a-7a6e-4875-b69c-509be565ddd4"
+    },
+    "chunkId": "assets/Script/GameManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 70
+          },
+          "end": {
+            "line": 2,
+            "column": 74
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/RedEnemySpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1646297226645.8655,
+      "uuid": "946b45f1-eb23-4a89-9f42-f562be43a57e"
+    },
+    "chunkId": "assets/Script/RedEnemySpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/StoneEnemySpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1646296918438.0146,
+      "uuid": "c15390b7-0883-40a5-b904-140959afcd11"
+    },
+    "chunkId": "assets/Script/StoneEnemySpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/EnemySpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1650028305694.3125,
+      "uuid": "2fdddf62-1280-49e7-a587-481fb601adab"
+    },
+    "chunkId": "assets/Script/EnemySpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./BossSpawner",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BossSpawner.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Spawner.ts": {
+    "mTimestamp": {
+      "mtime": 1646972995028.2817,
+      "uuid": "4b5ff0f6-5545-43d3-892e-505d3809e82d"
+    },
+    "chunkId": "assets/Script/Spawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/TouchManager.ts": {
+    "mTimestamp": {
+      "mtime": 1650015047639.6396,
+      "uuid": "bcb12a5d-da2d-4d3d-96f6-b0ac17b61c81"
+    },
+    "chunkId": "assets/Script/TouchManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Shield.ts": {
+    "mTimestamp": {
+      "mtime": 1646972836085.169,
+      "uuid": "9dc4a61a-9a24-49a5-8bdc-1f1e7ada870a"
+    },
+    "chunkId": "assets/Script/Shield.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 121
+          },
+          "end": {
+            "line": 2,
+            "column": 125
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./ShieldAct",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldAct.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Bomb.ts": {
+    "mTimestamp": {
+      "mtime": 1649321316822.777,
+      "uuid": "c582184f-704a-43af-8977-95a784a4a442"
+    },
+    "chunkId": "assets/Script/Bomb.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Gun.ts": {
+    "mTimestamp": {
+      "mtime": 1650031134966.1025,
+      "uuid": "314054e6-99e9-47cc-8b86-695ea9560bb4"
+    },
+    "chunkId": "assets/Script/Gun.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 68
+          },
+          "end": {
+            "line": 2,
+            "column": 72
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Bullet.ts": {
+    "mTimestamp": {
+      "mtime": 1650018220756.9126,
+      "uuid": "a58c8fe3-5082-487b-9e45-7aa476a993ac"
+    },
+    "chunkId": "assets/Script/Bullet.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldAct.ts": {
+    "mTimestamp": {
+      "mtime": 1647002077335.4329,
+      "uuid": "6e58bf15-c724-421f-8051-dd5a8ecf45cc"
+    },
+    "chunkId": "assets/Script/ShieldAct.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BulletIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1647312459353.131,
+      "uuid": "d5b4ae56-6779-4d2a-93a3-423b18cddc78"
+    },
+    "chunkId": "assets/Script/BulletIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 138
+          },
+          "end": {
+            "line": 2,
+            "column": 142
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BulletAct.ts": {
+    "mTimestamp": {
+      "mtime": 1647312424200.266,
+      "uuid": "db7efed4-67f2-4dde-b9e7-bbd039a13db4"
+    },
+    "chunkId": "assets/Script/BulletAct.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1647001662321.7903,
+      "uuid": "9dc4a61a-9a24-49a5-8bdc-1f1e7ada870a"
+    },
+    "chunkId": "assets/Script/ShieldIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 121
+          },
+          "end": {
+            "line": 2,
+            "column": 125
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./ShieldAct",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldAct.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts": {
+    "mTimestamp": {
+      "mtime": 1648797750888.1333,
+      "uuid": "f19f5aef-37d4-4427-9304-ee95674b99e8"
+    },
+    "chunkId": "assets/Script/IconSpawn.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/ShieldIcoShieldIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1646972853158.4902,
+      "uuid": "6cd7e649-f785-4cc9-a3f4-9410078bb1d7"
+    },
+    "chunkId": "assets/Script/ShieldIcoShieldIcon.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/GunIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1648788035034.1655,
+      "uuid": "9ada975b-eb10-4ed8-8260-6f7e2de7a876"
+    },
+    "chunkId": "assets/Script/GunIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./Gun",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 20
+          },
+          "end": {
+            "line": 3,
+            "column": 27
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Gun.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/SpeedIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1648808745775.2952,
+      "uuid": "8c76be3a-2acf-4ed8-8628-69dc01d4941b"
+    },
+    "chunkId": "assets/Script/SpeedIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BombIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1649347963179.4458,
+      "uuid": "3f2a4383-573b-49f6-94c9-9eb906dbc8cf"
+    },
+    "chunkId": "assets/Script/BombIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 147
+          },
+          "end": {
+            "line": 2,
+            "column": 151
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawn.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconSpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1649318246898.021,
+      "uuid": "29a8f197-67b5-4928-8438-3139425212f5"
+    },
+    "chunkId": "assets/Script/IconSpawner.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/IconManager.ts": {
+    "mTimestamp": {
+      "mtime": 1649318359581.4644,
+      "uuid": "c3a1511c-41d0-4e0b-a0a0-05f11cbdb11e"
+    },
+    "chunkId": "assets/Script/IconManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BossSpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1650336630997.4963,
+      "uuid": "78994293-6e7b-4de6-aa9d-cb1d1581184c"
+    },
+    "chunkId": "assets/Script/BossSpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./Boss",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Boss.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/Boss.ts": {
+    "mTimestamp": {
+      "mtime": 1650030885084.02,
+      "uuid": "4565406c-2bf0-4104-a841-0a6e83e4bb1b"
+    },
+    "chunkId": "assets/Script/Boss.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 102
+          },
+          "end": {
+            "line": 2,
+            "column": 106
+          }
+        }
+      },
+      {
+        "value": "./BossSpawner",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_1/assets/Script/BossSpawner.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Boss.ts": {
+    "mTimestamp": {
+      "mtime": 1650030885084.02,
+      "uuid": "4565406c-2bf0-4104-a841-0a6e83e4bb1b"
+    },
+    "chunkId": "assets/Script/Boss.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 102
+          },
+          "end": {
+            "line": 2,
+            "column": 106
+          }
+        }
+      },
+      {
+        "value": "./BossSpawner",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/BossSpawner.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/BossSpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1650336630997.4963,
+      "uuid": "78994293-6e7b-4de6-aa9d-cb1d1581184c"
+    },
+    "chunkId": "assets/Script/BossSpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./Boss",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Boss.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Bullet.ts": {
+    "mTimestamp": {
+      "mtime": 1651722107642.0354,
+      "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7"
+    },
+    "chunkId": "assets/Script/Bullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1651745415988.5679,
+      "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3"
+    },
+    "chunkId": "assets/Script/Enemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 116
+          },
+          "end": {
+            "line": 2,
+            "column": 120
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/EnemySpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1651725355674.578,
+      "uuid": "46f9f08d-0f81-4868-8b03-fd3da62c9b14"
+    },
+    "chunkId": "assets/Script/EnemySpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/BombIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1649347963179.4458,
+      "uuid": "3f2a4383-573b-49f6-94c9-9eb906dbc8cf"
+    },
+    "chunkId": "assets/Script/BombIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 147
+          },
+          "end": {
+            "line": 2,
+            "column": 151
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconSpawn.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GameManager.ts": {
+    "mTimestamp": {
+      "mtime": 1651641322427.4932,
+      "uuid": "4adce07f-caf8-4b0e-bd6c-25bc13a1db4d"
+    },
+    "chunkId": "assets/Script/GameManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 70
+          },
+          "end": {
+            "line": 2,
+            "column": 74
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GunIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1651739072376.9417,
+      "uuid": "5d7f243d-f7f4-4050-9b7a-b3773fcc6f90"
+    },
+    "chunkId": "assets/Script/GunIcon.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Gun.ts": {
+    "mTimestamp": {
+      "mtime": 1650031134966.1025,
+      "uuid": "314054e6-99e9-47cc-8b86-695ea9560bb4"
+    },
+    "chunkId": "assets/Script/Gun.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 68
+          },
+          "end": {
+            "line": 2,
+            "column": 72
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts": {
+    "mTimestamp": {
+      "mtime": 1651742230995.6821,
+      "uuid": "151944fa-0a7d-4b29-b1e3-03caf23c6cf9"
+    },
+    "chunkId": "assets/Script/PoolManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 105
+          },
+          "end": {
+            "line": 2,
+            "column": 109
+          }
+        }
+      },
+      {
+        "value": "./Bullet",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Enemy",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 22
+          },
+          "end": {
+            "line": 4,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Icons",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 22
+          },
+          "end": {
+            "line": 5,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 33
+          },
+          "end": {
+            "line": 6,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "./PlayerEnemy",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 28
+          },
+          "end": {
+            "line": 7,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Bullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Enemy.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Icons.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerEnemy.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Player.ts": {
+    "mTimestamp": {
+      "mtime": 1650013341598.7295,
+      "uuid": "09661a4f-e813-4c8f-9f82-2de06a7a40a3"
+    },
+    "chunkId": "assets/Script/Player.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 215
+          },
+          "end": {
+            "line": 2,
+            "column": 219
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/ShieldAct.ts": {
+    "mTimestamp": {
+      "mtime": 1647002077335.4329,
+      "uuid": "6e58bf15-c724-421f-8051-dd5a8ecf45cc"
+    },
+    "chunkId": "assets/Script/ShieldAct.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 23
+          },
+          "end": {
+            "line": 3,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconSpawn.ts": {
+    "mTimestamp": {
+      "mtime": 1648797750888.1333,
+      "uuid": "f19f5aef-37d4-4427-9304-ee95674b99e8"
+    },
+    "chunkId": "assets/Script/IconSpawn.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpeedIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1648808745775.2952,
+      "uuid": "8c76be3a-2acf-4ed8-8628-69dc01d4941b"
+    },
+    "chunkId": "assets/Script/SpeedIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconSpawn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/ShieldIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1647001662321.7903,
+      "uuid": "9dc4a61a-9a24-49a5-8bdc-1f1e7ada870a"
+    },
+    "chunkId": "assets/Script/ShieldIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 121
+          },
+          "end": {
+            "line": 2,
+            "column": 125
+          }
+        }
+      },
+      {
+        "value": "./IconSpawn",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./ShieldAct",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 26
+          },
+          "end": {
+            "line": 4,
+            "column": 39
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconSpawn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/ShieldAct.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/TouchManager.ts": {
+    "mTimestamp": {
+      "mtime": 1650015047639.6396,
+      "uuid": "bcb12a5d-da2d-4d3d-96f6-b0ac17b61c81"
+    },
+    "chunkId": "assets/Script/TouchManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Player",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 23
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Player.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerController.ts": {
+    "mTimestamp": {
+      "mtime": 1651656630877.6274,
+      "uuid": "cfdfedde-9ce9-44d5-8622-ad65a6680f12"
+    },
+    "chunkId": "assets/Script/PlayerController.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InputController.ts": {
+    "mTimestamp": {
+      "mtime": 1651656646380.7292,
+      "uuid": "151853d4-73e2-482e-97ce-c06feb475d4d"
+    },
+    "chunkId": "assets/Script/InputController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 33
+          },
+          "end": {
+            "line": 4,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerController.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts": {
+    "mTimestamp": {
+      "mtime": 1651668944617.1758,
+      "uuid": "a495f498-695d-4831-87ea-d7839cc0c978"
+    },
+    "chunkId": "assets/Script/PoolObjects.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 43
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./InteractableObject",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractableObject.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Player-Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1651647338914.1028,
+      "uuid": "b182d78a-0f00-415d-9e0f-cd234d406b65"
+    },
+    "chunkId": "assets/Script/Player-Enemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PlayerEnemy.ts": {
+    "mTimestamp": {
+      "mtime": 1651745423669.5078,
+      "uuid": "43b84786-efc3-40ec-970e-30278bd26f7d"
+    },
+    "chunkId": "assets/Script/PlayerEnemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController-001.ts": {
+    "mTimestamp": {
+      "mtime": 1651657101002.1375,
+      "uuid": "7a877cb1-6497-4c87-97e8-8ec8e324c85f"
+    },
+    "chunkId": "assets/Script/SpawnController-001.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController.ts": {
+    "mTimestamp": {
+      "mtime": 1651745154484.1636,
+      "uuid": "1aee7a1b-9021-446a-a7f2-1a7a797327a9"
+    },
+    "chunkId": "assets/Script/SpawnController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/PoolObjects.ts": {
+    "mTimestamp": {
+      "mtime": 1651656494308.194,
+      "uuid": "a495f498-695d-4831-87ea-d7839cc0c978"
+    },
+    "chunkId": "assets/Script/InteractiveObjects/PoolObjects.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/PlayerEnemy.ts": {
+    "mTimestamp": {
+      "mtime": 1651656287714.0596,
+      "uuid": "43b84786-efc3-40ec-970e-30278bd26f7d"
+    },
+    "chunkId": "assets/Script/InteractiveObjects/PlayerEnemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1651656278623.7546,
+      "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3"
+    },
+    "chunkId": "assets/Script/InteractiveObjects/Enemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 116
+          },
+          "end": {
+            "line": 2,
+            "column": 120
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/Bullet.ts": {
+    "mTimestamp": {
+      "mtime": 1651656800331.2866,
+      "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7"
+    },
+    "chunkId": "assets/Script/InteractiveObjects/Bullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractiveObjects/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/InteractableObject.ts": {
+    "mTimestamp": {
+      "mtime": 1651741617578.4624,
+      "uuid": "f4682b96-43d3-4b23-8d3b-8a6af5ba2ca0"
+    },
+    "chunkId": "assets/Script/InteractableObject.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController/SpawnController.ts": {
+    "mTimestamp": {
+      "mtime": 1651657090255.2131,
+      "uuid": "84045ace-a96c-420a-9a1e-86f6df2dee38"
+    },
+    "chunkId": "assets/Script/SpawnController/SpawnController.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController/EnemySpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1651653674674.9539,
+      "uuid": "1aee7a1b-9021-446a-a7f2-1a7a797327a9"
+    },
+    "chunkId": "assets/Script/SpawnController/EnemySpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      null
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconSpawner.ts": {
+    "mTimestamp": {
+      "mtime": 1651724922607.0005,
+      "uuid": "c44f9dc2-3b93-4ae8-bb19-d7494c3d61d5"
+    },
+    "chunkId": "assets/Script/IconSpawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "./SpawnController",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 32
+          },
+          "end": {
+            "line": 3,
+            "column": 51
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/SpawnController.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/IconInit.ts": {
+    "mTimestamp": {
+      "mtime": 1651738701577.275,
+      "uuid": "958013b0-0e7d-48fc-a8ba-236f51d7978a"
+    },
+    "chunkId": "assets/Script/IconInit.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 52
+          },
+          "end": {
+            "line": 2,
+            "column": 56
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/Icons.ts": {
+    "mTimestamp": {
+      "mtime": 1651746033511.6343,
+      "uuid": "0727d7d9-2b36-4f08-ab46-5532d6b0be2e"
+    },
+    "chunkId": "assets/Script/Icons.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Cocos/RedandBlue_edited/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1652411766187.2966,
+      "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3"
+    },
+    "chunkId": "assets/Script/Enemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 116
+          },
+          "end": {
+            "line": 2,
+            "column": 120
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts": {
+    "mTimestamp": {
+      "mtime": 1652353979650.6555,
+      "uuid": "151853d4-73e2-482e-97ce-c06feb475d4d"
+    },
+    "chunkId": "assets/Script/InputController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 33
+          },
+          "end": {
+            "line": 4,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts": {
+    "mTimestamp": {
+      "mtime": 1652329031382.2837,
+      "uuid": "0727d7d9-2b36-4f08-ab46-5532d6b0be2e"
+    },
+    "chunkId": "assets/Script/Icons.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 115
+          },
+          "end": {
+            "line": 2,
+            "column": 119
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Gun",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 20
+          },
+          "end": {
+            "line": 4,
+            "column": 27
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 33
+          },
+          "end": {
+            "line": 5,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 28
+          },
+          "end": {
+            "line": 6,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts": {
+    "mTimestamp": {
+      "mtime": 1652427968793.635,
+      "uuid": "4adce07f-caf8-4b0e-bd6c-25bc13a1db4d"
+    },
+    "chunkId": "assets/Script/GameManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 110
+          },
+          "end": {
+            "line": 2,
+            "column": 114
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GunIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1651833865263.7952,
+      "uuid": "5d7f243d-f7f4-4050-9b7a-b3773fcc6f90"
+    },
+    "chunkId": "assets/Script/GunIcon.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts": {
+    "mTimestamp": {
+      "mtime": 1652342270834.7375,
+      "uuid": "f4682b96-43d3-4b23-8d3b-8a6af5ba2ca0"
+    },
+    "chunkId": "assets/Script/InteractableObject.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts": {
+    "mTimestamp": {
+      "mtime": 1652498351331.188,
+      "uuid": "cfdfedde-9ce9-44d5-8622-ad65a6680f12"
+    },
+    "chunkId": "assets/Script/PlayerController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 133
+          },
+          "end": {
+            "line": 2,
+            "column": 137
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts": {
+    "mTimestamp": {
+      "mtime": 1652175103931.6196,
+      "uuid": "a495f498-695d-4831-87ea-d7839cc0c978"
+    },
+    "chunkId": "assets/Script/PoolObjects.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 43
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./InteractableObject",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerEnemy.ts": {
+    "mTimestamp": {
+      "mtime": 1652411760932.4329,
+      "uuid": "43b84786-efc3-40ec-970e-30278bd26f7d"
+    },
+    "chunkId": "assets/Script/PlayerEnemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 90
+          },
+          "end": {
+            "line": 2,
+            "column": 94
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts": {
+    "mTimestamp": {
+      "mtime": 1652427367964.4482,
+      "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7"
+    },
+    "chunkId": "assets/Script/Bullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/SpawnController.ts": {
+    "mTimestamp": {
+      "mtime": 1651811782834.7158,
+      "uuid": "1aee7a1b-9021-446a-a7f2-1a7a797327a9"
+    },
+    "chunkId": "assets/Script/SpawnController.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 77
+          },
+          "end": {
+            "line": 2,
+            "column": 81
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts": {
+    "mTimestamp": {
+      "mtime": 1652415816281.0393,
+      "uuid": "151944fa-0a7d-4b29-b1e3-03caf23c6cf9"
+    },
+    "chunkId": "assets/Script/PoolManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 105
+          },
+          "end": {
+            "line": 2,
+            "column": 109
+          }
+        }
+      },
+      {
+        "value": "./BombIcon",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./BossBullet",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./Bullet",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Enemy",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Icons",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 22
+          },
+          "end": {
+            "line": 7,
+            "column": 31
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts": {
+    "mTimestamp": {
+      "mtime": 1652498264383.307,
+      "uuid": "de134a07-c004-4749-a066-1207b9d6ba91"
+    },
+    "chunkId": "assets/Script/Spawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 84
+          },
+          "end": {
+            "line": 2,
+            "column": 88
+          }
+        }
+      },
+      {
+        "value": "./Boss",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts": {
+    "mTimestamp": {
+      "mtime": 1652171520142.874,
+      "uuid": "c286436f-670d-42a4-b40e-d31247fa2e07"
+    },
+    "chunkId": "assets/Script/Gun.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Shield.ts": {
+    "mTimestamp": {
+      "mtime": 1652170471621.0955,
+      "uuid": "62732b9f-a834-41a7-ba32-3f2d431cd684"
+    },
+    "chunkId": "assets/Script/Shield.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./ActiveIcons",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ActiveIcons.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/HorizontalMovement.ts": {
+    "mTimestamp": {
+      "mtime": 1651892502859.584,
+      "uuid": "fbc84d8c-8446-4276-96a9-78bbf37e0ba6"
+    },
+    "chunkId": "assets/Script/HorizontalMovement.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 60
+          },
+          "end": {
+            "line": 2,
+            "column": 64
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Speed.ts": {
+    "mTimestamp": {
+      "mtime": 1652170651927.71,
+      "uuid": "4d14ef84-391d-4a8c-8f4b-8eba0c8fb152"
+    },
+    "chunkId": "assets/Script/Speed.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./ActiveIcons",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ActiveIcons.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts": {
+    "mTimestamp": {
+      "mtime": 1652342397071.8943,
+      "uuid": "330c374f-4870-4fa5-92b7-9af5d71f6320"
+    },
+    "chunkId": "assets/Script/Bomb.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 123
+          },
+          "end": {
+            "line": 2,
+            "column": 127
+          }
+        }
+      },
+      {
+        "value": "./InteractableObject",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ActiveIcons.ts": {
+    "mTimestamp": {
+      "mtime": 1652015283663.5513,
+      "uuid": "69d69251-7b4b-4b3c-84bd-90bf98d1f782"
+    },
+    "chunkId": "assets/Script/ActiveIcons.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1652416216174.2136,
+      "uuid": "e084175f-cee9-425f-be18-5750486b8c3b"
+    },
+    "chunkId": "assets/Script/BombIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 147
+          },
+          "end": {
+            "line": 2,
+            "column": 151
+          }
+        }
+      },
+      {
+        "value": "./Explosion",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts": {
+    "mTimestamp": {
+      "mtime": 1652168164085.0828,
+      "uuid": "5ebeaa82-f94a-4497-a820-eea024192748"
+    },
+    "chunkId": "assets/Script/Explosion.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts": {
+    "mTimestamp": {
+      "mtime": 1652167001056.2769,
+      "uuid": "9572748e-c93a-4c35-82ec-dbb27565acae"
+    },
+    "chunkId": "assets/Script/ColorChange.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts": {
+    "mTimestamp": {
+      "mtime": 1652498133117.8572,
+      "uuid": "47e2dde8-fa49-4f30-8311-7b28ac687c28"
+    },
+    "chunkId": "assets/Script/Boss.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 142
+          },
+          "end": {
+            "line": 2,
+            "column": 146
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Spawner",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 24
+          },
+          "end": {
+            "line": 5,
+            "column": 35
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts": {
+    "mTimestamp": {
+      "mtime": 1652348656038.144,
+      "uuid": "32a780e0-8b9d-45cd-a892-60d560fb73a0"
+    },
+    "chunkId": "assets/Script/BossBullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 100
+          },
+          "end": {
+            "line": 2,
+            "column": 104
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  }
+}
