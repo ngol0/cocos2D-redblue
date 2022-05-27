@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 8075.827058000024,
+    "mTimestamp": 21499.00097799301,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,11 +389,11 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 2969060.0729529997,
+    "mTimestamp": 76087.53500896692,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bomb.ts",
         "rewritten": "__unresolved_0",
         "loc": {
           "start": {
@@ -407,7 +407,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BombIcon.ts",
         "rewritten": "__unresolved_1",
         "loc": {
           "start": {
@@ -421,7 +421,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Boss.ts",
         "rewritten": "__unresolved_2",
         "loc": {
           "start": {
@@ -435,7 +435,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BossBullet.ts",
         "rewritten": "__unresolved_3",
         "loc": {
           "start": {
@@ -449,7 +449,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bullet.ts",
         "rewritten": "__unresolved_4",
         "loc": {
           "start": {
@@ -463,7 +463,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/ColorChange.ts",
         "rewritten": "__unresolved_5",
         "loc": {
           "start": {
@@ -477,7 +477,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Enemy.ts",
         "rewritten": "__unresolved_6",
         "loc": {
           "start": {
@@ -491,7 +491,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Explosion.ts",
         "rewritten": "__unresolved_7",
         "loc": {
           "start": {
@@ -505,7 +505,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts",
         "rewritten": "__unresolved_8",
         "loc": {
           "start": {
@@ -519,7 +519,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Gun.ts",
         "rewritten": "__unresolved_9",
         "loc": {
           "start": {
@@ -533,7 +533,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Icons.ts",
         "rewritten": "__unresolved_10",
         "loc": {
           "start": {
@@ -547,7 +547,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InputController.ts",
         "rewritten": "__unresolved_11",
         "loc": {
           "start": {
@@ -561,7 +561,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InteractableObject.ts",
         "rewritten": "__unresolved_12",
         "loc": {
           "start": {
@@ -575,7 +575,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PlayerController.ts",
         "rewritten": "__unresolved_13",
         "loc": {
           "start": {
@@ -589,7 +589,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts",
         "rewritten": "__unresolved_14",
         "loc": {
           "start": {
@@ -603,7 +603,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts",
         "rewritten": "__unresolved_15",
         "loc": {
           "start": {
@@ -617,7 +617,7 @@
         }
       },
       {
-        "value": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts",
+        "value": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Spawner.ts",
         "rewritten": "__unresolved_16",
         "loc": {
           "start": {
@@ -637,71 +637,71 @@
     "resolvedImports": [
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bomb.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bomb.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BombIcon.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BombIcon.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Boss.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Boss.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/BossBullet.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BossBullet.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Bullet.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bullet.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/ColorChange.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/ColorChange.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Enemy.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Enemy.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Explosion.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Explosion.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/GameManager.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Gun.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Gun.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Icons.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Icons.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InputController.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InputController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/InteractableObject.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InteractableObject.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PlayerController.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PlayerController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolManager.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/Spawner.ts"
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Spawner.ts"
       }
     ]
   },
@@ -1092,7 +1092,7 @@
     ]
   },
   "cce:/internal/code-quality/cr.mjs": {
-    "mTimestamp": 1652495386262,
+    "mTimestamp": 1653643727730,
     "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
     "imports": [],
     "modLoMetadata": {
@@ -6050,6 +6050,1250 @@
       {
         "isExternal": false,
         "url": "file:///Users/lamngo/Desktop/ATHENA/red-and-blue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bomb.ts": {
+    "mTimestamp": {
+      "mtime": 1652342397071.8943,
+      "uuid": "330c374f-4870-4fa5-92b7-9af5d71f6320"
+    },
+    "chunkId": "assets/Script/Bomb.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 123
+          },
+          "end": {
+            "line": 2,
+            "column": 127
+          }
+        }
+      },
+      {
+        "value": "./InteractableObject",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InteractableObject.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BombIcon.ts": {
+    "mTimestamp": {
+      "mtime": 1652416216174.2136,
+      "uuid": "e084175f-cee9-425f-be18-5750486b8c3b"
+    },
+    "chunkId": "assets/Script/BombIcon.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 147
+          },
+          "end": {
+            "line": 2,
+            "column": 151
+          }
+        }
+      },
+      {
+        "value": "./Explosion",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 26
+          },
+          "end": {
+            "line": 3,
+            "column": 39
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Explosion.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bullet.ts": {
+    "mTimestamp": {
+      "mtime": 1652427367964.4482,
+      "uuid": "22fc65fc-997f-4a38-b70c-10ae9d1a06d7"
+    },
+    "chunkId": "assets/Script/Bullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 106
+          },
+          "end": {
+            "line": 2,
+            "column": 110
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Enemy.ts": {
+    "mTimestamp": {
+      "mtime": 1652411766187.2966,
+      "uuid": "fc8ef733-69b5-4659-acdb-e155a2a05dd3"
+    },
+    "chunkId": "assets/Script/Enemy.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 116
+          },
+          "end": {
+            "line": 2,
+            "column": 120
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/ColorChange.ts": {
+    "mTimestamp": {
+      "mtime": 1652167001056.2769,
+      "uuid": "9572748e-c93a-4c35-82ec-dbb27565acae"
+    },
+    "chunkId": "assets/Script/ColorChange.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Explosion.ts": {
+    "mTimestamp": {
+      "mtime": 1652168164085.0828,
+      "uuid": "5ebeaa82-f94a-4497-a820-eea024192748"
+    },
+    "chunkId": "assets/Script/Explosion.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Gun.ts": {
+    "mTimestamp": {
+      "mtime": 1652171520142.874,
+      "uuid": "c286436f-670d-42a4-b40e-d31247fa2e07"
+    },
+    "chunkId": "assets/Script/Gun.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 50
+          },
+          "end": {
+            "line": 2,
+            "column": 54
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts": {
+    "mTimestamp": {
+      "mtime": 1652427968793.635,
+      "uuid": "4adce07f-caf8-4b0e-bd6c-25bc13a1db4d"
+    },
+    "chunkId": "assets/Script/GameManager.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 110
+          },
+          "end": {
+            "line": 2,
+            "column": 114
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InputController.ts": {
+    "mTimestamp": {
+      "mtime": 1653643797745.2148,
+      "uuid": "151853d4-73e2-482e-97ce-c06feb475d4d"
+    },
+    "chunkId": "assets/Script/InputController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 98
+          },
+          "end": {
+            "line": 2,
+            "column": 102
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 33
+          },
+          "end": {
+            "line": 4,
+            "column": 53
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PlayerController.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Icons.ts": {
+    "mTimestamp": {
+      "mtime": 1652329031382.2834,
+      "uuid": "0727d7d9-2b36-4f08-ab46-5532d6b0be2e"
+    },
+    "chunkId": "assets/Script/Icons.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 115
+          },
+          "end": {
+            "line": 2,
+            "column": 119
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Gun",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 20
+          },
+          "end": {
+            "line": 4,
+            "column": 27
+          }
+        }
+      },
+      {
+        "value": "./PlayerController",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 33
+          },
+          "end": {
+            "line": 5,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 28
+          },
+          "end": {
+            "line": 6,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Gun.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PlayerController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InteractableObject.ts": {
+    "mTimestamp": {
+      "mtime": 1652342270834.7373,
+      "uuid": "f4682b96-43d3-4b23-8d3b-8a6af5ba2ca0"
+    },
+    "chunkId": "assets/Script/InteractableObject.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 96
+          },
+          "end": {
+            "line": 2,
+            "column": 100
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts": {
+    "mTimestamp": {
+      "mtime": 1652415816281.0393,
+      "uuid": "151944fa-0a7d-4b29-b1e3-03caf23c6cf9"
+    },
+    "chunkId": "assets/Script/PoolManager.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 105
+          },
+          "end": {
+            "line": 2,
+            "column": 109
+          }
+        }
+      },
+      {
+        "value": "./BombIcon",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 37
+          }
+        }
+      },
+      {
+        "value": "./BossBullet",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 41
+          }
+        }
+      },
+      {
+        "value": "./Bullet",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 23
+          },
+          "end": {
+            "line": 5,
+            "column": 33
+          }
+        }
+      },
+      {
+        "value": "./Enemy",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 22
+          },
+          "end": {
+            "line": 6,
+            "column": 31
+          }
+        }
+      },
+      {
+        "value": "./Icons",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 22
+          },
+          "end": {
+            "line": 7,
+            "column": 31
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BombIcon.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BossBullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Bullet.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Enemy.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Icons.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts": {
+    "mTimestamp": {
+      "mtime": 1652175103931.6199,
+      "uuid": "a495f498-695d-4831-87ea-d7839cc0c978"
+    },
+    "chunkId": "assets/Script/PoolObjects.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 43
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "./InteractableObject",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 35
+          },
+          "end": {
+            "line": 3,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/InteractableObject.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PlayerController.ts": {
+    "mTimestamp": {
+      "mtime": 1652498351331.188,
+      "uuid": "cfdfedde-9ce9-44d5-8622-ad65a6680f12"
+    },
+    "chunkId": "assets/Script/PlayerController.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 133
+          },
+          "end": {
+            "line": 2,
+            "column": 137
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/BossBullet.ts": {
+    "mTimestamp": {
+      "mtime": 1652348656038.144,
+      "uuid": "32a780e0-8b9d-45cd-a892-60d560fb73a0"
+    },
+    "chunkId": "assets/Script/BossBullet.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 100
+          },
+          "end": {
+            "line": 2,
+            "column": 104
+          }
+        }
+      },
+      {
+        "value": "./PoolObjects",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolObjects.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Boss.ts": {
+    "mTimestamp": {
+      "mtime": 1652498133117.8572,
+      "uuid": "47e2dde8-fa49-4f30-8311-7b28ac687c28"
+    },
+    "chunkId": "assets/Script/Boss.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 142
+          },
+          "end": {
+            "line": 2,
+            "column": 146
+          }
+        }
+      },
+      {
+        "value": "./GameManager",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 28
+          },
+          "end": {
+            "line": 3,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "./Spawner",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 24
+          },
+          "end": {
+            "line": 5,
+            "column": 35
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/GameManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Spawner.ts"
+      }
+    ]
+  },
+  "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Spawner.ts": {
+    "mTimestamp": {
+      "mtime": 1652498264383.307,
+      "uuid": "de134a07-c004-4749-a066-1207b9d6ba91"
+    },
+    "chunkId": "assets/Script/Spawner.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 84
+          },
+          "end": {
+            "line": 2,
+            "column": 88
+          }
+        }
+      },
+      {
+        "value": "./Boss",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 21
+          },
+          "end": {
+            "line": 3,
+            "column": 29
+          }
+        }
+      },
+      {
+        "value": "./PoolManager",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 28
+          },
+          "end": {
+            "line": 4,
+            "column": 43
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/Boss.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///Users/lamngo/Desktop/Git/cocos2D-redblue/assets/Script/PoolManager.ts"
       }
     ]
   }

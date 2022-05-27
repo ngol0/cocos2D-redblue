@@ -173,8 +173,8 @@
       "cc": "./mods/cce/internal/x/cc.js",
       "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js",
       "__unresolved_2": "./mods/fs/0/assets/Script/Gun.js",
-      "__unresolved_4": "./mods/fs/0/assets/Script/PoolObjects.js",
-      "__unresolved_3": "./mods/fs/0/assets/Script/PlayerController.js"
+      "__unresolved_3": "./mods/fs/0/assets/Script/PlayerController.js",
+      "__unresolved_4": "./mods/fs/0/assets/Script/PoolObjects.js"
     },
     "./mods/fs/0/assets/Script/InteractableObject.js": {
       "cc": "./mods/cce/internal/x/cc.js"
@@ -188,12 +188,6 @@
       "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
       "cc": "./mods/cce/internal/x/cc.js",
       "__unresolved_1": "./mods/fs/0/assets/Script/PoolObjects.js"
-    },
-    "./mods/fs/0/assets/Script/InputController.js": {
-      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
-      "cc": "./mods/cce/internal/x/cc.js",
-      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js",
-      "__unresolved_2": "./mods/fs/0/assets/Script/PlayerController.js"
     },
     "./mods/fs/0/assets/Script/Enemy.js": {
       "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
@@ -229,6 +223,24 @@
     "./mods/fs/0/assets/Script/GameManager.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     },
+    "./mods/fs/0/assets/Script/Boss.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Script/PoolManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Script/Spawner.js"
+    },
+    "./mods/fs/0/assets/Script/Spawner.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Script/Boss.js",
+      "__unresolved_2": "./mods/fs/0/assets/Script/PoolManager.js"
+    },
+    "./mods/fs/0/assets/Script/PlayerController.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js"
+    },
     "./mods/cce/internal/x/cc.js": {
       "__unresolved_0": "cce:/internal/x/cc-fu/base",
       "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
@@ -248,19 +260,6 @@
       "__unresolved_15": "cce:/internal/x/cc-fu/spine",
       "__unresolved_16": "cce:/internal/x/cc-fu/dragon-bones"
     },
-    "./mods/fs/0/assets/Script/Boss.js": {
-      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
-      "cc": "./mods/cce/internal/x/cc.js",
-      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js",
-      "__unresolved_2": "./mods/fs/0/assets/Script/PoolManager.js",
-      "__unresolved_3": "./mods/fs/0/assets/Script/Spawner.js"
-    },
-    "./mods/fs/0/assets/Script/Spawner.js": {
-      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
-      "cc": "./mods/cce/internal/x/cc.js",
-      "__unresolved_1": "./mods/fs/0/assets/Script/Boss.js",
-      "__unresolved_2": "./mods/fs/0/assets/Script/PoolManager.js"
-    },
     "./mods/cce/internal/x/prerequisite-imports.js": {
       "__unresolved_0": "./mods/fs/0/assets/Script/Bomb.js",
       "__unresolved_1": "./mods/fs/0/assets/Script/BombIcon.js",
@@ -272,18 +271,19 @@
       "__unresolved_7": "./mods/fs/0/assets/Script/Explosion.js",
       "__unresolved_8": "./mods/fs/0/assets/Script/GameManager.js",
       "__unresolved_9": "./mods/fs/0/assets/Script/Gun.js",
-      "__unresolved_11": "./mods/fs/0/assets/Script/InputController.js",
-      "__unresolved_12": "./mods/fs/0/assets/Script/InteractableObject.js",
       "__unresolved_10": "./mods/fs/0/assets/Script/Icons.js",
+      "__unresolved_12": "./mods/fs/0/assets/Script/InteractableObject.js",
+      "__unresolved_13": "./mods/fs/0/assets/Script/PlayerController.js",
       "__unresolved_14": "./mods/fs/0/assets/Script/PoolManager.js",
       "__unresolved_15": "./mods/fs/0/assets/Script/PoolObjects.js",
       "__unresolved_16": "./mods/fs/0/assets/Script/Spawner.js",
-      "__unresolved_13": "./mods/fs/0/assets/Script/PlayerController.js"
+      "__unresolved_11": "./mods/fs/0/assets/Script/InputController.js"
     },
-    "./mods/fs/0/assets/Script/PlayerController.js": {
+    "./mods/fs/0/assets/Script/InputController.js": {
       "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
       "cc": "./mods/cce/internal/x/cc.js",
-      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js"
+      "__unresolved_1": "./mods/fs/0/assets/Script/GameManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Script/PlayerController.js"
     }
   }
 }

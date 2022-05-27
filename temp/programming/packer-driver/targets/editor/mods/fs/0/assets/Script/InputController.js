@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, _decorator, Component, Node, GameManager, PlayerController, _dec, _class, _class2, _descriptor, _temp, _crd, ccclass, property, InputController;
+  var _reporterNs, _cclegacy, _decorator, Component, Node, KeyCode, SystemEventType, systemEvent, GameManager, PlayerController, _dec, _class, _class2, _descriptor, _temp, _crd, ccclass, property, InputController;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -27,6 +27,9 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
       _decorator = _cc._decorator;
       Component = _cc.Component;
       Node = _cc.Node;
+      KeyCode = _cc.KeyCode;
+      SystemEventType = _cc.SystemEventType;
+      systemEvent = _cc.systemEvent;
     }, function (_unresolved_2) {
       GameManager = _unresolved_2.GameManager;
     }, function (_unresolved_3) {
@@ -50,17 +53,43 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         }
 
         start() {
+          systemEvent.on(SystemEventType.KEY_DOWN, this.onKeyDown, this);
           this.node.on(Node.EventType.TOUCH_START, event => {
             (_crd && PlayerController === void 0 ? (_reportPossibleCrUseOfPlayerController({
               error: Error()
             }), PlayerController) : PlayerController).Instance.InputForMove(this.direction);
-            (_crd && GameManager === void 0 ? (_reportPossibleCrUseOfGameManager({
-              error: Error()
-            }), GameManager) : GameManager).Instance.AddProgressBar();
-            (_crd && GameManager === void 0 ? (_reportPossibleCrUseOfGameManager({
-              error: Error()
-            }), GameManager) : GameManager).Instance.AddScore(1);
+            this.UpdateScores();
           }, this);
+        }
+
+        UpdateScores() {
+          (_crd && GameManager === void 0 ? (_reportPossibleCrUseOfGameManager({
+            error: Error()
+          }), GameManager) : GameManager).Instance.AddProgressBar();
+          (_crd && GameManager === void 0 ? (_reportPossibleCrUseOfGameManager({
+            error: Error()
+          }), GameManager) : GameManager).Instance.AddScore(1);
+        }
+
+        onKeyDown(event) {
+          // if (GameController.Instance.isLost || GameController.Instance.isPaused) return;
+          switch (event.keyCode) {
+            case KeyCode.ARROW_LEFT:
+            case KeyCode.KEY_A:
+              (_crd && PlayerController === void 0 ? (_reportPossibleCrUseOfPlayerController({
+                error: Error()
+              }), PlayerController) : PlayerController).Instance.InputForMove(-1);
+              this.UpdateScores();
+              break;
+
+            case KeyCode.ARROW_RIGHT:
+            case KeyCode.KEY_D:
+              (_crd && PlayerController === void 0 ? (_reportPossibleCrUseOfPlayerController({
+                error: Error()
+              }), PlayerController) : PlayerController).Instance.InputForMove(1);
+              this.UpdateScores();
+              break;
+          }
         }
 
       }, _temp), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "direction", [property], {

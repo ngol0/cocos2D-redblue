@@ -5,8 +5,8 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/jsb",
       "./temp/declarations/cc.env",
+      "./temp/declarations/jsb",
       "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc"
     ],
@@ -15,7 +15,7 @@
         "/Applications/CocosCreator/Creator/3.4.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/lamngo/Desktop/ATHENA/red-and-blue/assets/*"
+        "/Users/lamngo/Desktop/Git/cocos2D-redblue/assets/*"
       ]
     },
     "experimentalDecorators": true,
